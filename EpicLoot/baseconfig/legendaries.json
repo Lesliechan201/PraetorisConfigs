@@ -4,8 +4,8 @@
       "ID": "Dyrnwyn",
       "Name": "$mod_epicloot_l_dyrnwyn",
       "Description": "$mod_epicloot_l_dyrnwyn_desc",
-      "EquipFx": "FireAura", 
-      "EquipFxMode": "EquipRoot", 
+      "EquipFx": "FireAura",
+      "EquipFxMode": "EquipRoot",
       "Requirements": {
         "AllowedItemTypes": [ "OneHandedWeapon" ],
         "AllowedSkillTypes": [ "Swords" ]
@@ -18,8 +18,8 @@
       "ID": "SleipnirsHoof",
       "Name": "$mod_epicloot_l_sleipnirshoof",
       "Description": "$mod_epicloot_l_sleipnirshoof_desc",
-      "EquipFx": "WhiteAura", 
-      "EquipFxMode": "EquipRoot", 
+      "EquipFx": "WhiteAura",
+      "EquipFxMode": "EquipRoot",
       "Requirements": {
         "AllowedItemTypes": [ "OneHandedWeapon" ],
         "AllowedSkillTypes": [ "Clubs" ]
@@ -45,11 +45,11 @@
       "Name": "$mod_epicloot_l_mjolnir",
       "Description": "$mod_epicloot_l_mjolnir_desc",
       "EquipFx": "LightningAuraSledge",
-      "EquipFxMode": "EquipRoot", 
+      "EquipFxMode": "EquipRoot",
       "Requirements": {
         "AllowedItemNames": [ "$item_sledge_iron" ]
       },
-      "GuaranteedEffectCount": 6, 
+      "GuaranteedEffectCount": 6,
       "GuaranteedMagicEffects": [
         { "Type": "ModifyPhysicalDamage" },
         { "Type": "AddLightningDamage" },
@@ -90,7 +90,7 @@
       "ID": "Angurvadal",
       "Name": "$mod_epicloot_l_angurvadal",
       "Description": "$mod_epicloot_l_angurvadal_desc",
-      "EquipFx": "WhiteAura", 
+      "EquipFx": "WhiteAura",
       "EquipFxMode" : "EquipRoot", 
       "Requirements" : {
         "AllowedItemTypes": [ "OneHandedWeapon" ],
@@ -269,7 +269,7 @@
         "AllowedItemTypes": [ "OneHandedWeapon" ],
         "AllowedSkillTypes": [ "Knives" ]
       },
-      "GuaranteedEffectCount": 6, 
+      "GuaranteedEffectCount": 6,
       "GuaranteedMagicEffects": [
         { "Type": "ModifyAttackStaminaUse" },
         { "Type": "ModifyAttackSpeed" },
@@ -282,7 +282,7 @@
       "ID": "HeimdallTowerShield",
       "Name": "$mod_epicloot_l_heimdalltowershield",
       "Description": "$mod_epicloot_l_heimdalltowershield_desc",
-      "IsSetItem": true, 
+      "IsSetItem": true,
       "Requirements": {
         "AllowedItemTypes": [
           "Shield"
@@ -297,13 +297,13 @@
       "ID": "HeimdallHelmet",
       "Name": "$mod_epicloot_l_heimdallhelmet",
       "Description": "$mod_epicloot_l_heimdallhelmet_desc",
-      "IsSetItem": true, 
+      "IsSetItem": true,
       "Requirements": {
         "AllowedItemTypes": [
           "Helmet"
         ]
       },
-      "GuaranteedEffectCount": 6, 
+      "GuaranteedEffectCount": 6,
       "GuaranteedMagicEffects": [
         { "Type": "ModifyArmorLowHealth" },
         { "Type": "ModifyStaminaRegenLowHealth" }
@@ -314,7 +314,7 @@
       "Name": "$mod_epicloot_l_heimdallchest",
       "Description": "$mod_epicloot_l_heimdallchest_desc",
       "TextureReplacements": [ { "ItemID": "ArmorPaddedCuirass", "MainTexture": "PaddedArmorMain_Heimdall", "ChestTex": "PaddedArmorChest_Heimdall" } ],
-      "IsSetItem": true, 
+      "IsSetItem": true,
       "Requirements": {
         "AllowedItemTypes": [
           "Chest"
@@ -330,13 +330,13 @@
       "ID": "HeimdallLegs",
       "Name": "$mod_epicloot_l_heimdalllegs",
       "Description": "$mod_epicloot_l_heimdalllegs_desc",
-      "IsSetItem": true, 
+      "IsSetItem": true,
       "Requirements": {
         "AllowedItemTypes": [
           "Legs"
         ]
       },
-      "GuaranteedEffectCount": 6, 
+      "GuaranteedEffectCount": 6,
       "GuaranteedMagicEffects": [
         { "Type": "AddMovementSkills" },
         { "Type": "ModifyMovementSpeedLowHealth" }
@@ -347,8 +347,8 @@
       "Name": "$mod_epicloot_l_ragnarbattleaxe",
       "Description": "$mod_epicloot_l_ragnarbattleaxe_desc",
       "EquipFx": "FrostAuraBattleAxe",
-      "EquipFxMode": "EquipRoot", 
-      "IsSetItem": true, 
+      "EquipFxMode": "EquipRoot",
+      "IsSetItem": true,
       "Requirements": {
         "AllowedItemTypes": [ "TwoHandedWeapon" ], 
         "AllowedSkillTypes": [ "Axes" ]
@@ -362,7 +362,7 @@
       "ID": "RagnarCape",
       "Name": "$mod_epicloot_l_ragnarcape",
       "Description": "$mod_epicloot_l_ragnarcape_desc",
-      "IsSetItem": true, 
+      "IsSetItem": true,
       "Requirements": {
         "AllowedItemTypes": [
           "Shoulder"
@@ -375,7 +375,7 @@
       "Name": "$mod_epicloot_l_ragnarchest",
       "Description": "$mod_epicloot_l_ragnarchest_desc",
       "TextureReplacements": [ { "ItemID": "ArmorPaddedCuirass", "MainTexture": "paddedarmortest2_d", "ChestTex": "PaddedArmorChest2_d" } ],
-      "IsSetItem": true, 
+      "IsSetItem": true,
       "Requirements": {
         "AllowedItemTypes": [
           "Chest"
@@ -387,7 +387,7 @@
       "ID": "RagnarLegs",
       "Name": "$mod_epicloot_l_ragnarlegs",
       "Description": "$mod_epicloot_l_ragnarlegs_desc",
-      "IsSetItem": true, 
+      "IsSetItem": true,
       "Requirements": {
         "AllowedItemTypes": [
           "Legs"

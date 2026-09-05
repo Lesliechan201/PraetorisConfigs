@@ -195,7 +195,7 @@
         { "Item": "Coins",              "Amount": 15 }
       ]
     },
-    {
+        {
       "Name": "Recipe_MagicDustAndEssenceToShard_Conversion",
       "Product": "ShardMagic",
       "Amount": 1,
@@ -204,8 +204,8 @@
         { "Item": "EssenceMagic", "Amount": 2 },
         { "Item": "DustMagic",    "Amount": 2 }
       ]
-    },
-    {
+        },
+        {
       "Name": "Recipe_RareDustAndEssenceToShard_Conversion",
       "Product": "ShardRare",
       "Amount": 1,
@@ -526,5 +526,5 @@
         { "Item": "FaderDrop", "Amount": 5 }
       ]
     }
-  ] 
+  ]
 }

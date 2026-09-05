@@ -13,22 +13,57 @@
         ],
         "defeated_eikthyr": [],
         "defeated_gdking": [
+          "VAVine_Sword",
+          "VAbronze_greatsword",
+          "VAAntler_Sword",
           "SwordBronze"
         ],
         "defeated_bonemass": [
+          "SwordDualCaptainCutlassDO",
+          "SwordCaptainCutlassDO",
+          "SwordPlagueCrowDO",
+          "VAiron_greatsword",
+          "VABonemassSword",
+          "VABonemassGreatsword",
+          "VASwordChitin",
           "SwordIron"
         ],
         "defeated_dragon": [
+          "SwordGunjangSamingeomDO",
+          "BastardGunjangDO",
+          "SwordGunjangHwandoDO",
+          "VASwordModer",
+          "VAsilver_greatsword",
+          "VAModer_greatsword",
           "SwordSilver"
         ],
         "defeated_goblinking": [
+          "BastardAnubisDO",
+          "SwordHorusDO",
+          "SwordBashradZanfarDO",
+          "SwordDualBashradDO",
+          "SwordCrusaderDO",
+          "BastardCrusaderDO",
+          "VABlackmetal_greatsword",
           "SwordBlackmetal"
         ],
         "defeated_queen": [
+          "SwordDaoweiJianDO",
+          "BastardDaoweiDO",
+          "VAQueen_greatsword",
+          "VASwordQueen",
+          "VAYagluth_greatsword",
           "THSwordKrom",
           "SwordMistwalker"
         ],
         "defeated_fader": [
+          "BastardThanatosDO",
+          "BastardShogunNagamakiDO",
+          "BastardShogunKatanaDO",
+          "SwordDualShogunDaishoDO",
+          "SwordShogunWakizashiDO",
+          "VAGreatswordFader",
+          "VASwordFader",
           "SwordNiedhoggNature",
           "SwordNiedhogg",
           "THSwordSlayer",
@@ -59,13 +94,19 @@
           "AxeBronze"
         ],
         "defeated_bonemass": [
+          "AxePlagueCleaverDO",
+          "AxeSailorDO",
+          "VABone_axe",
           "AxeIron"
         ],
         "defeated_dragon": [],
         "defeated_goblinking": [
+          "AxeCrusaderDO",
+          "AxeBashradTabarzinDO",
           "AxeBlackMetal"
         ],
         "defeated_queen": [
+          "VAJotunn_single_axe",
           "AxeJotunBane"
         ],
         "defeated_fader": []
@@ -82,22 +123,40 @@
           "BattleaxeWood"
         ],
         "defeated_eikthyr": [
+          "VAFlint_greataxe",
+          "VAFlint_dualaxes",
           "AxeEarly"
         ],
         "defeated_gdking": [],
         "defeated_bonemass": [
+          "VAIron_dualaxes",
+          "VABone_dualaxes",
           "Battleaxe"
         ],
         "defeated_dragon": [
+          "VAModer_dualaxes",
+          "VACrystal_dualaxes",
           "BattleaxeCrystal"
         ],
         "defeated_goblinking": [
+          "BattleAxeAnubisDO",
+          "BattleAxeCrusaderDO",
+          "VAblackmetal_battleaxe",
+          "VABlackmetal_dualaxes",
+          "VAblackmetal_2h_axe",
           "BattleaxeBlackmetal"
         ],
         "defeated_queen": [
+          "BattleAxeDaoweiDO",
+          "VAJotunn_2h_axe",
+          "VAJotunn_dualaxes",
           "BattleaxeSkullSplittur"
         ],
         "defeated_fader": [
+          "VAFlametalAxe_blood_2h",
+          "VAFlametalAxe_primal_2h",
+          "VAFlametalAxe_lightning_2h",
+          "VAFlametalAxe_2h",
           "AxeBerzerkrNature",
           "AxeBerzerkr",
           "AxeBerzerkrBlood",
@@ -116,22 +175,58 @@
           "KnifeWood"
         ],
         "defeated_eikthyr": [
+          "VADagger_Flint_2h",
           "KnifeFlint"
         ],
         "defeated_gdking": [
+          "ThrowingWhirlstarCoreBronzeDO",
+          "DaggerDualSilentThornDO",
+          "ThrowingKnifeCoreBronzeDO",
+          "DaggerSilentThornDO",
+          "VAAntler_dagger",
+          "VAdagger_copper_2h",
           "KnifeButcher",
           "KnifeCopper"
         ],
         "defeated_bonemass": [
+          "DaggerCaptainDirkDO",
+          "DaggerPlagueScalpelDO",
+          "DaggerPlagueSyringeDO",
+          "ThrowingKnifeCoreIronDO",
+          "ThrowingWhirlstarCoreIronDO",
+          "VAdagger_iron",
+          "VAdagger_chitin_2h",
+          "VABonemassDagger",
+          "VAdagger_iron_2h",
           "KnifeChitin"
         ],
         "defeated_dragon": [
+          "ThrowingKnifeCoreSilverDO",
+          "ThrowingWhirlstarCoreSilverDO",
+          "DaggerSnowTalonDO",
+          "DaggerDualSnowTalonDO",
+          "VAdagger_silver_2h",
+          "VAdagger_moder",
+          "VAdagger_moder_2h",
           "KnifeSilver"
         ],
         "defeated_goblinking": [
+          "DaggerDualAnubisDO",
+          "DaggerHorusDO",
+          "DaggerAnubisDO",
+          "DaggerDualBashradDO",
+          "DaggerCrusaderDO",
+          "DaggerBashradDO",
+          "ThrowingWhirlstarCoreBlackmetalDO",
+          "ThrowingKnifeCoreBlackmetalDO",
+          "VAknife_blackmetal",
           "KnifeBlackMetal"
         ],
         "defeated_queen": [
+          "DaggerNocturneBladeDO",
+          "DaggerDualNocturneBladeDO",
+          "VAdagger_blackmetal_mistlands",
+          "VAdagger_queen",
           "KnifeSkollAndHati"
         ],
         "defeated_fader": []
@@ -147,6 +242,7 @@
         "none": [],
         "defeated_eikthyr": [],
         "defeated_gdking": [
+          "VAFist_Bronze",
           "FistBjornClaw"
         ],
         "defeated_bonemass": [],
@@ -154,6 +250,7 @@
           "FistFenrirClaw"
         ],
         "defeated_goblinking": [
+          "FistClawAnubisDO",
           "FistBjornUndeadClaw"
         ],
         "defeated_queen": [],
@@ -174,12 +271,21 @@
         "defeated_dragon": [],
         "defeated_goblinking": [],
         "defeated_queen": [
+          "StaffLightcallerHealDO",
+          "StaffLightcallerSphereDO",
+          "StaffWindcallerBuffDO",
+          "VAStaff_Poison",
+          "VAStaff_Spirit",
           "StaffIceShards",
           "StaffSkeleton",
           "StaffShield",
           "StaffFireball"
         ],
         "defeated_fader": [
+          "StaffBloodcallerShotgunDO",
+          "StaffStormcallerSphereDO",
+          "StaffStormcallerShockerDO",
+          "StaffBloodcallerHealDO",
           "StaffLightning",
           "StaffGreenRoots",
           "StaffRedTroll",
@@ -198,9 +304,11 @@
           "MaceWood"
         ],
         "defeated_eikthyr": [
+          "VAFlintMace",
           "Club"
         ],
         "defeated_gdking": [
+          "VAElder_mace",
           "MaceBronze"
         ],
         "defeated_bonemass": [
@@ -210,10 +318,14 @@
           "MaceSilver"
         ],
         "defeated_goblinking": [
+          "MaceHorusDO",
+          "MaceCrusaderBecDO",
+          "MaceCrusaderMorgensternDO",
           "MaceNeedle"
         ],
         "defeated_queen": [],
         "defeated_fader": [
+          "MaceThanatosDO",
           "MaceEldnerBlood",
           "MaceEldner",
           "MaceEldnerLightning",
@@ -236,11 +348,13 @@
         ],
         "defeated_gdking": [],
         "defeated_bonemass": [
+          "VABonemassWarhammer",
           "SledgeIron"
         ],
         "defeated_dragon": [],
         "defeated_goblinking": [],
         "defeated_queen": [
+          "MaceDualDaoweiDO",
           "SledgeDemolisher"
         ],
         "defeated_fader": []
@@ -258,18 +372,27 @@
         ],
         "defeated_eikthyr": [],
         "defeated_gdking": [
+          "VAatgeir_antler",
           "AtgeirBronze"
         ],
         "defeated_bonemass": [
+          "VAAtgeirChitin",
           "AtgeirIron"
         ],
         "defeated_dragon": [
+          "AtgeirGunjangDO",
+          "VASilverAtgeir",
           "Scythe"
         ],
         "defeated_goblinking": [
+          "AtgeirCrusaderHalberdDO",
           "AtgeirBlackmetal"
         ],
         "defeated_queen": [
+          "AtgeirHorusDO",
+          "AtgeirDaoweiHalberdDO",
+          "AtgeirDaoweiGuandaoDO",
+          "VAYagluthAtgeir",
           "AtgeirHimminAfl"
         ],
         "defeated_fader": []
@@ -296,6 +419,7 @@
           "SpearElderbark"
         ],
         "defeated_dragon": [
+          "VASpearModer",
           "SpearWolfFang"
         ],
         "defeated_goblinking": [],
@@ -303,6 +427,7 @@
           "SpearCarapace"
         ],
         "defeated_fader": [
+          "VASpearFader",
           "SpearSplitner",
           "SpearSplitner_Lightning",
           "SpearSplitner_Nature",
@@ -322,9 +447,12 @@
           "PickaxeAntler"
         ],
         "defeated_gdking": [
+          "PickaxeDualMinerBronzeDO",
+          "VABlood_Bones_pickaxe",
           "PickaxeBronze"
         ],
         "defeated_bonemass": [
+          "PickaxeDualMinerIronDO",
           "PickaxeIron"
         ],
         "defeated_dragon": [],
@@ -344,25 +472,71 @@
       "ItemsByBoss": {
         "none": [],
         "defeated_eikthyr": [
+          "SlingshotWoodDO",
+          "VACrossbowWood",
           "Bow"
         ],
         "defeated_gdking": [
+          "BowEvoCoreBlackforestDO",
+          "BowForestSentinelDO",
+          "CrossbowEvoRenegadeBlackforestDO",
+          "CrossbowEvoCoreBlackforestDO",
+          "SlingshotCorewoodDO",
+          "VACrossbowElder",
+          "VAAntler_Bow",
+          "VACrossbowBronze",
           "BowFineWood"
         ],
         "defeated_bonemass": [
+          "CrossbowEvoCoreSwampDO",
+          "BowEvoCoreSwampDO",
+          "SlingshotIronDO",
+          "SlingshotCompositeMistlandsDO",
+          "CrossbowEvoRenegadeSwampDO",
+          "VACrossbowIron",
           "BowHuntsman"
         ],
         "defeated_dragon": [
+          "CrossbowGunjangDO",
+          "BowGunjangDO",
+          "BowEvoCoreMountainDO",
+          "CrossbowEvoRenegadeMountainDO",
+          "BowFrostpeakHarrierDO",
+          "CrossbowEvoCoreMountainDO",
+          "SlingshotSilverDO",
+          "VACrossbowSilver",
+          "VACrossbowModer",
+          "VABlood_bone_bow",
           "BowDraugrFang"
         ],
         "defeated_goblinking": [],
         "defeated_queen": [
+          "CrossbowEvoRenegadeMistlandsDO",
+          "CrossbowEvoCoreMistlandsDO",
+          "BowEvoCoreMistlandsDO",
+          "BowSapphireFalconDO",
+          "BowNocturneArrowDO",
+          "VAHeavy_Blood_Bone_Bow",
+          "VAQueen_bow",
           "CrossbowArbalest",
           "DvergerArbalest_shootAshlands",
           "DvergerArbalest_shoot",
           "BowSpineSnap"
         ],
         "defeated_fader": [
+          "BowShogunYumiDO",
+          "CrossbowEvoRenegadeAshlandsFrostDO",
+          "CrossbowDemonHunterDO",
+          "CrossbowEvoCoreAshlandsLightningDO",
+          "BowEvoCoreAshlandsNatureDO",
+          "CrossbowEvoCoreAshlandsNatureDO",
+          "BowEvoCoreAshlandsLightningDO",
+          "BowEvoCoreAshlandsBloodDO",
+          "CrossbowEvoRenegadeAshlandsSpiritDO",
+          "SlingshotCompositeAshlandsDO",
+          "CrossbowEvoCoreAshlandsBloodDO",
+          "BowAshenExileDO",
+          "VASoulStealer",
           "CrossbowRipper",
           "CrossbowRipperBlood",
           "BowAshlands",
@@ -387,6 +561,7 @@
           "ShieldBronzeBuckler"
         ],
         "defeated_bonemass": [
+          "VAserpent_buckler",
           "ShieldIronBuckler"
         ],
         "defeated_dragon": [],
@@ -413,15 +588,20 @@
           "ShieldBanded"
         ],
         "defeated_dragon": [
+          "VAModer_RoundShield",
           "ShieldSilver"
         ],
         "defeated_goblinking": [
+          "ShieldBashradDO",
+          "ShieldTowerCrusaderDO",
           "ShieldBlackmetal"
         ],
         "defeated_queen": [
+          "ShieldDaoweiDO",
           "ShieldCarapace"
         ],
         "defeated_fader": [
+          "ShieldThanatosDO",
           "ShieldFlametal"
         ]
       }
@@ -465,30 +645,64 @@
           "ArmorRagsChest"
         ],
         "defeated_eikthyr": [
+          "ArmorSailorChestDO",
+          "ArmorMushroomcallerChestDO",
           "ArmorLeatherChest"
         ],
         "defeated_gdking": [
+          "ArmorPlagueChestDO",
+          "ArmorMinerChestDO",
+          "ArmorForestSentinelChestDO",
+          "ArmorSilentThornChestDO",
+          "ArmorTotemcallerChestDO",
           "ArmorTrollLeatherChest",
           "ArmorBronzeChest",
           "ArmorBerserkerChest"
         ],
         "defeated_bonemass": [
+          "ArmorGraveMercenaryChestDO",
+          "ArmorDeathcallerChestDO",
           "ArmorIronChest",
           "ArmorRootChest"
         ],
         "defeated_dragon": [
+          "ArmorGunjangChestDO",
+          "ArmorFrostpeakHarrierChestDO",
+          "ArmorSnowTalonChestDO",
+          "ArmorFrostcallerChestDO",
           "ArmorFenringChest",
           "ArmorWolfChest"
         ],
         "defeated_goblinking": [
+          "ArmorBashradChestDO",
+          "ArmorCrusaderChestDO",
+          "ArmorDreadRenegadeChestDO",
+          "ArmorGoldenStriderChestDO",
+          "ArmorStonecallerChestDO",
+          "ArmorFirecallerChestDO",
           "ArmorPaddedCuirass",
           "ArmorBerserkerUndeadChest"
         ],
         "defeated_queen": [
+          "ArmorHorusChestDO",
+          "ArmorAnubisChestDO",
+          "ArmorCaptainChestDO",
+          "ArmorDaoweiChestDO",
+          "ArmorNocturneBladeChestDO",
+          "ArmorSapphireFalconChestDO",
+          "ArmorNocturneArrowChestDO",
+          "ArmorBloodcallerChestDO",
+          "ArmorWindcallerChestDO",
+          "ArmorLightcallerChestDO",
           "ArmorMageChest",
           "ArmorCarapaceChest"
         ],
         "defeated_fader": [
+          "ArmorThanatosChestDO",
+          "ArmorShogunChestDO",
+          "ArmorAshenExileChestDO",
+          "ArmorDemonHunterChestDO",
+          "ArmorStormcallerChestDO",
           "ArmorMageChest_Ashlands",
           "ArmorAshlandsMediumChest",
           "ArmorFlametalChest"
@@ -506,30 +720,64 @@
           "ArmorRagsLegs"
         ],
         "defeated_eikthyr": [
+          "ArmorSailorLegsDO",
+          "ArmorMushroomcallerLegsDO",
           "ArmorLeatherLegs"
         ],
         "defeated_gdking": [
+          "ArmorMinerLegsDO",
+          "ArmorPlagueLegsDO",
+          "ArmorSilentThornLegsDO",
+          "ArmorForestSentinelLegsDO",
+          "ArmorTotemcallerLegsDO",
           "ArmorTrollLeatherLegs",
           "ArmorBerserkerLegs",
           "ArmorBronzeLegs"
         ],
         "defeated_bonemass": [
+          "ArmorGraveMercenaryLegsDO",
+          "ArmorDeathcallerLegsDO",
           "ArmorIronLegs",
           "ArmorRootLegs"
         ],
         "defeated_dragon": [
+          "ArmorGunjangLegsDO",
+          "ArmorSnowTalonLegsDO",
+          "ArmorFrostpeakHarrierLegsDO",
+          "ArmorFrostcallerLegsDO",
           "ArmorFenringLegs",
           "ArmorWolfLegs"
         ],
         "defeated_goblinking": [
+          "ArmorCrusaderLegsDO",
+          "ArmorBashradLegsDO",
+          "ArmorGoldenStriderLegsDO",
+          "ArmorDreadRenegadeLegsDO",
+          "ArmorStonecallerLegsDO",
+          "ArmorFirecallerLegsDO",
           "ArmorBerserkerUndeadLegs",
           "ArmorPaddedGreaves"
         ],
         "defeated_queen": [
+          "ArmorHorusLegsDO",
+          "ArmorAnubisLegsDO",
+          "ArmorDaoweiLegsDO",
+          "ArmorCaptainLegsDO",
+          "ArmorSapphireFalconLegsDO",
+          "ArmorNocturneBladeLegsDO",
+          "ArmorNocturneArrowLegsDO",
+          "ArmorLightcallerLegsDO",
+          "ArmorBloodcallerLegsDO",
+          "ArmorWindcallerLegsDO",
           "ArmorMageLegs",
           "ArmorCarapaceLegs"
         ],
         "defeated_fader": [
+          "ArmorThanatosLegsDO",
+          "ArmorShogunLegsDO",
+          "ArmorDemonHunterLegsDO",
+          "ArmorAshenExileLegsDO",
+          "ArmorStormcallerLegsDO",
           "ArmorFlametalLegs",
           "ArmorAshlandsMediumlegs",
           "ArmorMageLegs_Ashlands"
@@ -545,31 +793,65 @@
       "ItemsByBoss": {
         "none": [],
         "defeated_eikthyr": [
+          "ArmorSailorHelmetDO",
+          "ArmorMushroomcallerHelmetDO",
           "HelmetLeather"
         ],
         "defeated_gdking": [
+          "ArmorPlagueHelmetDO",
+          "ArmorMinerHelmetDO",
+          "ArmorSilentThornHelmetDO",
+          "ArmorForestSentinelHelmetDO",
+          "ArmorTotemcallerHelmetDO",
           "HelmetBronze",
           "HelmetCelebration",
           "HelmetTrollLeather",
           "HelmetBerserkerHood"
         ],
         "defeated_bonemass": [
+          "ArmorGraveMercenaryHelmetDO",
+          "ArmorDeathcallerHelmetDO",
           "HelmetIron",
           "HelmetRoot"
         ],
         "defeated_dragon": [
+          "ArmorGunjangHelmetDO",
+          "ArmorSnowTalonHelmetDO",
+          "ArmorFrostpeakHarrierHelmetDO",
+          "ArmorFrostcallerHelmetDO",
           "HelmetDrake",
           "HelmetFenring"
         ],
         "defeated_goblinking": [
+          "ArmorBashradHelmetDO",
+          "ArmorCrusaderHelmetDO",
+          "ArmorDreadRenegadeHelmetDO",
+          "ArmorGoldenStriderHelmetDO",
+          "ArmorFirecallerHelmetDO",
+          "ArmorStonecallerHelmetDO",
           "HelmetBerserkerUndead",
           "HelmetPadded"
         ],
         "defeated_queen": [
+          "ArmorAnubisHelmetDO",
+          "ArmorHorusHelmetDO",
+          "ArmorCaptainHelmetDO",
+          "ArmorDaoweiHelmetDO",
+          "ArmorSapphireFalconHelmetDO",
+          "ArmorNocturneBladeHelmetDO",
+          "ArmorNocturneArrowHelmetDO",
+          "ArmorLightcallerHelmetDO",
+          "ArmorWindcallerHelmetDO",
+          "ArmorBloodcallerHelmetDO",
           "HelmetMage",
           "HelmetCarapace"
         ],
         "defeated_fader": [
+          "ArmorThanatosHelmetDO",
+          "ArmorShogunHelmetDO",
+          "ArmorDemonHunterHelmetDO",
+          "ArmorAshenExileHelmetDO",
+          "ArmorStormcallerHelmetDO",
           "HelmetFlametal",
           "HelmetAshlandsMediumHood",
           "HelmetMage_Ashlands"
@@ -585,23 +867,52 @@
       "ItemsByBoss": {
         "none": [],
         "defeated_eikthyr": [
+          "ArmorSailorCapeDO",
           "CapeDeerHide"
         ],
         "defeated_gdking": [
+          "ArmorMinerCapeDO",
+          "ArmorPlagueCapeDO",
+          "ArmorForestSentinelCapeDO",
           "CapeTrollHide"
         ],
         "defeated_bonemass": [],
         "defeated_dragon": [
+          "ArmorGunjangCapeDO",
+          "ArmorSnowTalonCapeDO",
+          "ArmorFrostpeakHarrierCapeDO",
+          "ArmorFrostcallerCapeDO",
+          "ArmorStonecallerCapeDO",
           "CapeWolf"
         ],
         "defeated_goblinking": [
+          "ArmorCrusaderCapeDO",
+          "ArmorBashradCapeDO",
+          "ArmorGoldenStriderCapeDO",
+          "ArmorDreadRenegadeCapeDO",
+          "ArmorFirecallerCapeDO",
           "CapeLox",
           "CapeLinen"
         ],
         "defeated_queen": [
+          "ArmorAnubisCapeDO",
+          "ArmorHorusCapeDO",
+          "ArmorDaoweiCapeDO",
+          "ArmorCaptainCapeDO",
+          "ArmorNocturneBladeCapeDO",
+          "ArmorNocturneArrowCapeDO",
+          "ArmorSapphireFalconCapeDO",
+          "ArmorWindcallerCapeDO",
+          "ArmorLightcallerCapeDO",
+          "ArmorStormcallerCapeDO",
           "CapeFeather"
         ],
         "defeated_fader": [
+          "ArmorThanatosCapeDO",
+          "ArmorShogunCapeDO",
+          "ArmorDemonHunterCapeDO",
+          "ArmorAshenExileCapeDO",
+          "ArmorBloodcallerCapeDO",
           "CapeAsksvin",
           "CapeAsh"
         ]
@@ -641,6 +952,7 @@
           "Hammer"
         ],
         "defeated_gdking": [
+          "BFP_FineHammer",
           "FishingRod",
           "Cultivator"
         ],
@@ -690,25 +1002,68 @@
           "TrinketBronzeHealth"
         ],
         "defeated_bonemass": [
+          "ArmorSailorBeltDO",
+          "ArmorInspirationTrinketSwampDO",
+          "ArmorDeathcallerBeltDO",
           "TrinketIronStamina",
+          "TrinketChitinSwim",
           "TrinketIronHealth"
         ],
         "defeated_dragon": [
+          "ArmorGunjangBeltDO",
+          "ArmorFrostpeakHarrierTrinketDO",
+          "ArmorInspirationTrinketMountainDO",
+          "SilverRing",
           "TrinketSilverResist",
           "TrinketSilverDamage"
         ],
         "defeated_goblinking": [
+          "ArmorShogunBeltDO",
+          "ArmorCaptainTrinketDO",
+          "ArmorBashradBeltDO",
+          "ArmorCrusaderBeltDO",
+          "ArmorInspirationTrinketPlainsDO",
           "TrinketBlackDamageHealth",
           "TrinketBlackStamina"
         ],
         "defeated_queen": [
+          "ArmorAnubisBeltDO",
+          "ArmorHorusBeltDO",
+          "ArmorDaoweiBeltDO",
+          "ArmorCaptainBeltDO",
+          "ArmorSapphireFalconTrinketDO",
+          "ArmorWindcallerBeltDO",
+          "ArmorLightcallerBeltDO",
+          "ArmorInspirationTrinketMistlandsDO",
           "TrinketCarapaceEitr",
           "TrinketScaleStaminaDamage"
         ],
         "defeated_fader": [
+          "ArmorAshenExileTrinketDO",
+          "ArmorDemonHunterTrinketDO",
+          "ArmorStormcallerBeltDO",
+          "ArmorInspirationTrinketAshlandsDO",
+          "ArmorBloodcallerTrinketDO",
           "TrinketFlametalEitr",
           "TrinketFlametalStaminaHealth"
         ]
+      }
+    },
+    {
+      "Type": "Trinket",
+      "Fallback": null,
+      "ItemFallback": "Hoe",
+      "Items": [],
+      "IgnoredItems": [],
+      "ItemsByBoss": {
+        "none": [],
+        "defeated_eikthyr": [],
+        "defeated_gdking": [],
+        "defeated_bonemass": [],
+        "defeated_dragon": [],
+        "defeated_goblinking": [],
+        "defeated_queen": [],
+        "defeated_fader": []
       }
     }
   ]

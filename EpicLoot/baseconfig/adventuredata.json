@@ -149,6 +149,14 @@
       1,
       1,
       1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
       1
     ],
     "RandomItems": [],
@@ -208,6 +216,8 @@
         90.0,
         9.0,
         1.0,
+        0.0,
+        0.0,
         0.0,
         0.0
       ],
@@ -295,6 +305,13 @@
         "GoldBountyTokenCost": 0
       },
       {
+        "Item": "AxeStone",
+        "CoinsCost": 100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
         "Item": "AxeBronze",
         "CoinsCost": 400,
         "ForestTokenCost": 0,
@@ -302,8 +319,57 @@
         "GoldBountyTokenCost": 0
       },
       {
+        "Item": "AxePlagueCleaverDO",
+        "CoinsCost": 600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "AxeSailorDO",
+        "CoinsCost": 600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VABone_axe",
+        "CoinsCost": 600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
         "Item": "AxeIron",
         "CoinsCost": 600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAcrystal_axe",
+        "CoinsCost": 900,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAModer_Axe",
+        "CoinsCost": 900,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "AxeCrusaderDO",
+        "CoinsCost": 1100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "AxeBashradTabarzinDO",
+        "CoinsCost": 1100,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
@@ -330,8 +396,99 @@
         "GoldBountyTokenCost": 0
       },
       {
+        "Item": "VAFlametal_Axe_Primal",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAFlametal_Axe",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "BattleaxeWood",
+        "CoinsCost": 50,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAFlint_greataxe",
+        "CoinsCost": 100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAFlint_dualaxes",
+        "CoinsCost": 100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "AxeEarly",
+        "CoinsCost": 100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VABronze_dualaxes",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAAntler_greataxe",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAbronze_battleaxe",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAIron_dualaxes",
+        "CoinsCost": 600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VABone_dualaxes",
+        "CoinsCost": 600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
         "Item": "Battleaxe",
         "CoinsCost": 600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAModer_dualaxes",
+        "CoinsCost": 900,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VACrystal_dualaxes",
+        "CoinsCost": 900,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
@@ -386,8 +543,120 @@
         "GoldBountyTokenCost": 0
       },
       {
+        "Item": "VAFlametalAxe_primal_2h",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAFlametalAxe_lightning_2h",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAFlametalAxe_2h",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "AxeBerzerkrNature",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "AxeBerzerkr",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "AxeBerzerkrBlood",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "AxeBerzerkrLightning",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "KnifeWood",
+        "CoinsCost": 50,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VADagger_Flint_2h",
+        "CoinsCost": 100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
         "Item": "KnifeFlint",
         "CoinsCost": 100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ThrowingWhirlstarCoreBronzeDO",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "DaggerDualSilentThornDO",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ThrowingKnifeCoreBronzeDO",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "DaggerSilentThornDO",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAAntler_dagger",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAdagger_copper_2h",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "KnifeButcher",
+        "CoinsCost": 400,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
@@ -400,8 +669,71 @@
         "GoldBountyTokenCost": 0
       },
       {
+        "Item": "VABonemassDagger",
+        "CoinsCost": 600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAdagger_iron_2h",
+        "CoinsCost": 600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
         "Item": "KnifeChitin",
         "CoinsCost": 600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ThrowingKnifeCoreSilverDO",
+        "CoinsCost": 900,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ThrowingWhirlstarCoreSilverDO",
+        "CoinsCost": 900,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "DaggerSnowTalonDO",
+        "CoinsCost": 900,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "DaggerDualSnowTalonDO",
+        "CoinsCost": 900,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAdagger_silver_2h",
+        "CoinsCost": 900,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAdagger_moder",
+        "CoinsCost": 900,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAdagger_moder_2h",
+        "CoinsCost": 900,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
@@ -414,8 +746,50 @@
         "GoldBountyTokenCost": 0
       },
       {
+        "Item": "ThrowingKnifeCoreBlackmetalDO",
+        "CoinsCost": 1100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAknife_blackmetal",
+        "CoinsCost": 1100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
         "Item": "KnifeBlackMetal",
         "CoinsCost": 999,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "DaggerNocturneBladeDO",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "DaggerDualNocturneBladeDO",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAdagger_blackmetal_mistlands",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAdagger_queen",
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
@@ -428,6 +802,97 @@
         "GoldBountyTokenCost": 0
       },
       {
+        "Item": "DaggerShogunTantoDO",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ThrowingKnifeCoreFlametalDO",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ThrowingWhirlstarCoreFlametalDO",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAdagger_meteor_lightning",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAdagger_meteor_2h_nature",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAdagger_meteor_2h_lightning",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAdagger_meteor_2h_blood",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAdagger_meteor_2h",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAdagger_meteor_blood",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAdagger_meteor_nature",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAdagger_meteor",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAFist_Flint",
+        "CoinsCost": 100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAFist_Bronze",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
         "Item": "FistBjornClaw",
         "CoinsCost": 300,
         "ForestTokenCost": 0,
@@ -435,8 +900,22 @@
         "GoldBountyTokenCost": 0
       },
       {
+        "Item": "VAFist_Iron",
+        "CoinsCost": 600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
         "Item": "FistFenrirClaw",
         "CoinsCost": 800,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "FistClawAnubisDO",
+        "CoinsCost": 1100,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
@@ -456,8 +935,134 @@
         "GoldBountyTokenCost": 0
       },
       {
+        "Item": "StaffTotemcallerBoomerangDO",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "StaffMushroomcallerMushroomDO",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "StaffTotemcallerTotemDO",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ToolSignalBoardingDO",
+        "CoinsCost": 600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "StaffDeathcallerBlasterDO",
+        "CoinsCost": 600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAStaff_Druid_Spirit",
+        "CoinsCost": 600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAStaff_Druid_Fire",
+        "CoinsCost": 600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAStaff_Druid_Poison",
+        "CoinsCost": 600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAStaff_Druid_Ice",
+        "CoinsCost": 600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "StaffFrostcallerShotgunDO",
+        "CoinsCost": 900,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "StaffFirecallerBlasterDO",
+        "CoinsCost": 1100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "StaffFirecallerRingDO",
+        "CoinsCost": 1100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "StaffLightcallerHealDO",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "StaffLightcallerSphereDO",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "StaffWindcallerBuffDO",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAStaff_Poison",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAStaff_Spirit",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
         "Item": "StaffIceShards",
         "CoinsCost": 1200,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "StaffSkeleton",
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
@@ -484,8 +1089,36 @@
         "GoldBountyTokenCost": 0
       },
       {
+        "Item": "StaffStormcallerSphereDO",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "StaffStormcallerShockerDO",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "StaffBloodcallerHealDO",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
         "Item": "StaffLightning",
         "CoinsCost": 1500,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "StaffGreenRoots",
+        "CoinsCost": 1600,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
@@ -505,8 +1138,162 @@
         "GoldBountyTokenCost": 0
       },
       {
-        "Item": "SledgeStagbreaker",
+        "Item": "MaceWood",
+        "CoinsCost": 50,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAFlintMace",
+        "CoinsCost": 100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "Club",
+        "CoinsCost": 100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAElder_mace",
         "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "MaceBronze",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "MaceIron",
+        "CoinsCost": 600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "MaceSilver",
+        "CoinsCost": 900,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "MaceHorusDO",
+        "CoinsCost": 1100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "MaceCrusaderBecDO",
+        "CoinsCost": 1100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "MaceCrusaderMorgensternDO",
+        "CoinsCost": 1100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "MaceNeedle",
+        "CoinsCost": 1100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "MaceDaoweiDO",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAmistland_mace",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "MaceThanatosDO",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "MaceEldnerBlood",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "MaceEldner",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "MaceEldnerLightning",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "MaceEldnerNature",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "SledgeWood",
+        "CoinsCost": 50,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "SledgeStagbreaker",
+        "CoinsCost": 100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAElderHammer",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VABronzeSledge",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VABonemassWarhammer",
+        "CoinsCost": 600,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
@@ -514,6 +1301,27 @@
       {
         "Item": "SledgeIron",
         "CoinsCost": 600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VASilverSledge",
+        "CoinsCost": 900,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAblackmetal_sledge",
+        "CoinsCost": 1100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "MaceDualDaoweiDO",
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
@@ -535,6 +1343,13 @@
       {
         "Item": "SpearBronze",
         "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "SpearChitin",
+        "CoinsCost": 600,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
@@ -645,8 +1460,106 @@
         "GoldBountyTokenCost": 0
       },
       {
+        "Item": "BowEvoCoreBlackforestDO",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "BowForestSentinelDO",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "CrossbowEvoRenegadeBlackforestDO",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "CrossbowEvoCoreBlackforestDO",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "SlingshotCorewoodDO",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VACrossbowElder",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAAntler_Bow",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VACrossbowBronze",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
         "Item": "BowFineWood",
         "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "CrossbowEvoCoreSwampDO",
+        "CoinsCost": 600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "BowEvoCoreSwampDO",
+        "CoinsCost": 600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "SlingshotIronDO",
+        "CoinsCost": 600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "SlingshotCompositeMistlandsDO",
+        "CoinsCost": 600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "CrossbowEvoRenegadeSwampDO",
+        "CoinsCost": 600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VACrossbowIron",
+        "CoinsCost": 600,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
@@ -659,8 +1572,169 @@
         "GoldBountyTokenCost": 0
       },
       {
+        "Item": "CrossbowGunjangDO",
+        "CoinsCost": 900,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "BowGunjangDO",
+        "CoinsCost": 900,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "BowEvoCoreMountainDO",
+        "CoinsCost": 900,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "CrossbowEvoRenegadeMountainDO",
+        "CoinsCost": 900,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "BowFrostpeakHarrierDO",
+        "CoinsCost": 900,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "CrossbowEvoCoreMountainDO",
+        "CoinsCost": 900,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "SlingshotSilverDO",
+        "CoinsCost": 900,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VACrossbowSilver",
+        "CoinsCost": 900,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VACrossbowModer",
+        "CoinsCost": 900,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VABlood_bone_bow",
+        "CoinsCost": 900,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
         "Item": "BowDraugrFang",
         "CoinsCost": 999,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "BowGoldenStriderDO",
+        "CoinsCost": 1100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "SlingshotBlackmetalDO",
+        "CoinsCost": 1100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "CrossbowEvoCorePlainsDO",
+        "CoinsCost": 1100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "BowEvoCorePlainsDO",
+        "CoinsCost": 1100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VABlackmetal_bow",
+        "CoinsCost": 1100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VACrossbowBlackmetal",
+        "CoinsCost": 1100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "CrossbowEvoRenegadeMistlandsDO",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "CrossbowEvoCoreMistlandsDO",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "BowEvoCoreMistlandsDO",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "BowSapphireFalconDO",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "BowNocturneArrowDO",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAHeavy_Blood_Bone_Bow",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAQueen_bow",
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
@@ -673,8 +1747,78 @@
         "GoldBountyTokenCost": 0
       },
       {
+        "Item": "DvergerArbalest_shoot",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
         "Item": "BowSpineSnap",
         "CoinsCost": 1200,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "BowEvoCoreAshlandsLightningDO",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "BowEvoCoreAshlandsBloodDO",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "CrossbowEvoRenegadeAshlandsSpiritDO",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "SlingshotCompositeAshlandsDO",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "CrossbowEvoCoreAshlandsBloodDO",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "BowAshenExileDO",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VASoulStealer",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "CrossbowRipper",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "CrossbowRipperBlood",
+        "CoinsCost": 1600,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
@@ -715,6 +1859,27 @@
         "GoldBountyTokenCost": 0
       },
       {
+        "Item": "ShieldDaggerHorusDO",
+        "CoinsCost": 1100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ShieldDaggerBashradDO",
+        "CoinsCost": 1100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ShieldCarapaceBuckler",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
         "Item": "ShieldWood",
         "CoinsCost": 100,
         "ForestTokenCost": 0,
@@ -722,8 +1887,22 @@
         "GoldBountyTokenCost": 0
       },
       {
+        "Item": "VAElderRoundShield",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
         "Item": "ShieldBanded",
         "CoinsCost": 600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAModer_RoundShield",
+        "CoinsCost": 900,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
@@ -806,6 +1985,20 @@
         "GoldBountyTokenCost": 0
       },
       {
+        "Item": "VAModer_shield",
+        "CoinsCost": 900,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "VAsilver_tower",
+        "CoinsCost": 900,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
         "Item": "ShieldBlackmetalTower",
         "CoinsCost": 999,
         "ForestTokenCost": 0,
@@ -821,6 +2014,20 @@
       },
       {
         "Item": "ArmorRagsChest",
+        "CoinsCost": 50,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorSailorChestDO",
+        "CoinsCost": 100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorMushroomcallerChestDO",
         "CoinsCost": 100,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
@@ -855,6 +2062,20 @@
         "GoldBountyTokenCost": 0
       },
       {
+        "Item": "ArmorGraveMercenaryChestDO",
+        "CoinsCost": 600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorDeathcallerChestDO",
+        "CoinsCost": 600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
         "Item": "ArmorIronChest",
         "CoinsCost": 600,
         "ForestTokenCost": 0,
@@ -876,8 +2097,43 @@
         "GoldBountyTokenCost": 0
       },
       {
+        "Item": "ArmorSnowTalonChestDO",
+        "CoinsCost": 900,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorFrostcallerChestDO",
+        "CoinsCost": 900,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
         "Item": "ArmorFenringChest",
         "CoinsCost": 800,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorGoldenStriderChestDO",
+        "CoinsCost": 1100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorStonecallerChestDO",
+        "CoinsCost": 1100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorFirecallerChestDO",
+        "CoinsCost": 1100,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
@@ -904,6 +2160,62 @@
         "GoldBountyTokenCost": 0
       },
       {
+        "Item": "ArmorCaptainChestDO",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorDaoweiChestDO",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorNocturneBladeChestDO",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorSapphireFalconChestDO",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorNocturneArrowChestDO",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorBloodcallerChestDO",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorWindcallerChestDO",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorLightcallerChestDO",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
         "Item": "ArmorMageChest",
         "CoinsCost": 1200,
         "ForestTokenCost": 0,
@@ -925,6 +2237,34 @@
         "GoldBountyTokenCost": 0
       },
       {
+        "Item": "ArmorShogunChestDO",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorAshenExileChestDO",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorDemonHunterChestDO",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorStormcallerChestDO",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
         "Item": "ArmorMageChest_Ashlands",
         "CoinsCost": 1500,
         "ForestTokenCost": 0,
@@ -932,7 +2272,28 @@
         "GoldBountyTokenCost": 0
       },
       {
+        "Item": "ArmorFlametalChest",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
         "Item": "ArmorRagsLegs",
+        "CoinsCost": 50,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorSailorLegsDO",
+        "CoinsCost": 100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorMushroomcallerLegsDO",
         "CoinsCost": 100,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
@@ -960,8 +2321,36 @@
         "GoldBountyTokenCost": 0
       },
       {
+        "Item": "ArmorTrollLeatherLegs",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
         "Item": "ArmorBerserkerLegs",
         "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorBronzeLegs",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorGraveMercenaryLegsDO",
+        "CoinsCost": 600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorDeathcallerLegsDO",
+        "CoinsCost": 600,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
@@ -988,8 +2377,78 @@
         "GoldBountyTokenCost": 0
       },
       {
+        "Item": "ArmorSnowTalonLegsDO",
+        "CoinsCost": 900,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorFrostpeakHarrierLegsDO",
+        "CoinsCost": 900,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorFrostcallerLegsDO",
+        "CoinsCost": 900,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
         "Item": "ArmorFenringLegs",
         "CoinsCost": 800,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorCrusaderLegsDO",
+        "CoinsCost": 1100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorBashradLegsDO",
+        "CoinsCost": 1100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorGoldenStriderLegsDO",
+        "CoinsCost": 1100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorDreadRenegadeLegsDO",
+        "CoinsCost": 1100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorStonecallerLegsDO",
+        "CoinsCost": 1100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorFirecallerLegsDO",
+        "CoinsCost": 1100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorBerserkerUndeadLegs",
+        "CoinsCost": 1100,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
@@ -1004,6 +2463,62 @@
       {
         "Item": "ArmorCarapaceLegs",
         "CoinsCost": 1200,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorDaoweiLegsDO",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorCaptainLegsDO",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorSapphireFalconLegsDO",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorNocturneBladeLegsDO",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorNocturneArrowLegsDO",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorLightcallerLegsDO",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorBloodcallerLegsDO",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorWindcallerLegsDO",
+        "CoinsCost": 1300,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
@@ -1051,7 +2566,49 @@
         "GoldBountyTokenCost": 0
       },
       {
+        "Item": "ArmorMinerHelmetDO",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorSilentThornHelmetDO",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorForestSentinelHelmetDO",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorTotemcallerHelmetDO",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
         "Item": "HelmetBronze",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "HelmetCelebration",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "HelmetTrollLeather",
         "CoinsCost": 400,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
@@ -1060,6 +2617,20 @@
       {
         "Item": "HelmetBerserkerHood",
         "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorGraveMercenaryHelmetDO",
+        "CoinsCost": 600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorDeathcallerHelmetDO",
+        "CoinsCost": 600,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
@@ -1074,6 +2645,34 @@
       {
         "Item": "HelmetRoot",
         "CoinsCost": 600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorGunjangHelmetDO",
+        "CoinsCost": 900,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorSnowTalonHelmetDO",
+        "CoinsCost": 900,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorFrostpeakHarrierHelmetDO",
+        "CoinsCost": 900,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorFrostcallerHelmetDO",
+        "CoinsCost": 900,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
@@ -1100,6 +2699,41 @@
         "GoldBountyTokenCost": 0
       },
       {
+        "Item": "ArmorCrusaderHelmetDO",
+        "CoinsCost": 1100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorDreadRenegadeHelmetDO",
+        "CoinsCost": 1100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorGoldenStriderHelmetDO",
+        "CoinsCost": 1100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorFirecallerHelmetDO",
+        "CoinsCost": 1100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorStonecallerHelmetDO",
+        "CoinsCost": 1100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
         "Item": "HelmetBerserkerUndead",
         "CoinsCost": 999,
         "ForestTokenCost": 0,
@@ -1114,8 +2748,120 @@
         "GoldBountyTokenCost": 0
       },
       {
+        "Item": "ArmorAnubisHelmetDO",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorHorusHelmetDO",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorCaptainHelmetDO",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorDaoweiHelmetDO",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorSapphireFalconHelmetDO",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorNocturneBladeHelmetDO",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorNocturneArrowHelmetDO",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorLightcallerHelmetDO",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorWindcallerHelmetDO",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorBloodcallerHelmetDO",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
         "Item": "HelmetMage",
         "CoinsCost": 1200,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "HelmetCarapace",
+        "CoinsCost": 1300,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorThanatosHelmetDO",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorShogunHelmetDO",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorDemonHunterHelmetDO",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorAshenExileHelmetDO",
+        "CoinsCost": 1600,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorStormcallerHelmetDO",
+        "CoinsCost": 1600,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0
@@ -1142,8 +2888,36 @@
         "GoldBountyTokenCost": 0
       },
       {
+        "Item": "ArmorSailorCapeDO",
+        "CoinsCost": 100,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
         "Item": "CapeDeerHide",
         "CoinsCost": 200,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorMinerCapeDO",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorPlagueCapeDO",
+        "CoinsCost": 400,
+        "ForestTokenCost": 0,
+        "IronBountyTokenCost": 0,
+        "GoldBountyTokenCost": 0
+      },
+      {
+        "Item": "ArmorForestSentinelCapeDO",
+        "CoinsCost": 400,
         "ForestTokenCost": 0,
         "IronBountyTokenCost": 0,
         "GoldBountyTokenCost": 0

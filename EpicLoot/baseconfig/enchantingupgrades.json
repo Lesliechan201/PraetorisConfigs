@@ -18,31 +18,31 @@
   "UpgradeCosts": {
     "Sacrifice": [
       null,
-      [ 
+      [
         { "Item": "SurtlingCore", "Amount": 4 },
         { "Item": "TrophySkeleton", "Amount": 2 } 
       ],
-      [ 
+      [
         { "Item": "SurtlingCore", "Amount": 10 },
         { "Item": "Bronze", "Amount": 4 },
         { "Item": "TrophySurtling", "Amount": 4 }
       ],
-      [ 
+      [
         { "Item": "SurtlingCore", "Amount": 16 },
         { "Item": "Iron", "Amount": 4 },
         { "Item": "TrophyLeech", "Amount": 3 }
       ],
-      [ 
+      [
         { "Item": "SurtlingCore", "Amount": 20 },
         { "Item": "Silver", "Amount": 4 },
         { "Item": "TrophySGolem", "Amount": 1 }
       ],
-      [ 
+      [
         { "Item": "SurtlingCore", "Amount": 25 },
         { "Item": "BlackMetal", "Amount": 4 },
         { "Item": "TrophyGoblinShaman", "Amount": 1 }
       ],
-      [ 
+      [
         { "Item": "SurtlingCore", "Amount": 30 },
         { "Item": "FlametalNew", "Amount": 4 },
         { "Item": "TrophyMorgen", "Amount": 1 }
