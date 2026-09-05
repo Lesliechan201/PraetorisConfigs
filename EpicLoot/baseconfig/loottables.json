@@ -75,67 +75,67 @@
     "Magic": [
       [
         0.0,
-        90.0
+        20.0
       ],
       [
         1.0,
-        10.0
+        80.0
       ]
     ],
     "Rare": [
       [
-        0.0,
-        75.0
+        1.0,
+        90.0
       ],
       [
-        1.0,
-        25.0
+        2.0,
+        10.0
       ]
     ],
     "Epic": [
       [
-        0.0,
-        50.0
-      ],
-      [
         1.0,
-        45.0
+        30.0
       ],
       [
         2.0,
+        65.0
+      ],
+      [
+        3.0,
         5.0
       ]
     ],
     "Legendary": [
       [
-        0.0,
+        1.0,
         15.0
       ],
       [
-        1.0,
-        55.0
+        2.0,
+        75.0
       ],
       [
-        2.0,
-        30.0
+        3.0,
+        10.0
       ]
     ],
     "Mythic": [
       [
         0.0,
-        5.0
+        0.0
       ],
       [
         1.0,
-        30.0
+        5.0
       ],
       [
         2.0,
-        40.0
+        80.0
       ],
       [
         3.0,
-        25.0
+        15.0
       ]
     ]
   },
@@ -427,18 +427,15 @@
             "Mythic": "Green_Mythic_ShardStone"
           }
         }
-          ]
-        },
-        {
+      ]
+    },
+    {
       "Name": "ShardT2",
       "Loot": [
         {
           "Item": "Red_Rare_ShardStone",
           "Weight": 4.0,
           "Rarity": [
-            97.0,
-            2.0,
-            1.0,
             0.0,
             100.0,
             0.0,
@@ -457,9 +454,6 @@
           "Item": "Grey_Rare_ShardStone",
           "Weight": 4.0,
           "Rarity": [
-            97.0,
-            2.0,
-            1.0,
             0.0,
             100.0,
             0.0,
@@ -478,9 +472,6 @@
           "Item": "Golden_Rare_ShardStone",
           "Weight": 4.0,
           "Rarity": [
-            97.0,
-            2.0,
-            1.0,
             0.0,
             100.0,
             0.0,
@@ -500,18 +491,15 @@
           "Weight": 3.0,
           "Rarity": null
         }
-          ]
-        },
-        {
+      ]
+    },
+    {
       "Name": "ShardT3",
       "Loot": [
         {
           "Item": "White_Epic_ShardStone",
           "Weight": 4.0,
           "Rarity": [
-            97.0,
-            2.0,
-            1.0,
             0.0,
             0.0,
             100.0,
@@ -530,9 +518,6 @@
           "Item": "LightBlue_Epic_ShardStone",
           "Weight": 4.0,
           "Rarity": [
-            97.0,
-            2.0,
-            1.0,
             0.0,
             0.0,
             100.0,
@@ -551,9 +536,6 @@
           "Item": "DarkBlue_Epic_ShardStone",
           "Weight": 4.0,
           "Rarity": [
-            97.0,
-            2.0,
-            1.0,
             0.0,
             0.0,
             100.0,
@@ -573,18 +555,15 @@
           "Weight": 3.0,
           "Rarity": null
         }
-          ]
-        },
-        {
+      ]
+    },
+    {
       "Name": "ShardT4",
       "Loot": [
         {
           "Item": "Black_Legendary_ShardStone",
           "Weight": 4.0,
           "Rarity": [
-            97.0,
-            2.0,
-            1.0,
             0.0,
             0.0,
             0.0,
@@ -603,9 +582,6 @@
           "Item": "Peach_Legendary_ShardStone",
           "Weight": 4.0,
           "Rarity": [
-            97.0,
-            2.0,
-            1.0,
             0.0,
             0.0,
             0.0,
@@ -624,9 +600,6 @@
           "Item": "DarkGreen_Legendary_ShardStone",
           "Weight": 4.0,
           "Rarity": [
-            97.0,
-            2.0,
-            1.0,
             0.0,
             0.0,
             0.0,
@@ -639,7 +612,7 @@
             "Epic": "DarkGreen_Epic_ShardStone",
             "Legendary": "DarkGreen_Legendary_ShardStone",
             "Mythic": "DarkGreen_Mythic_ShardStone"
-        }
+          }
         },
         {
           "Item": "ShardT3",
@@ -655,9 +628,6 @@
           "Item": "LightGreen_Legendary_ShardStone",
           "Weight": 4.0,
           "Rarity": [
-            97.0,
-            2.0,
-            1.0,
             0.0,
             0.0,
             0.0,
@@ -676,9 +646,6 @@
           "Item": "Purple_Legendary_ShardStone",
           "Weight": 4.0,
           "Rarity": [
-            97.0,
-            2.0,
-            1.0,
             0.0,
             0.0,
             0.0,
@@ -691,16 +658,12 @@
             "Epic": "Purple_Epic_ShardStone",
             "Legendary": "Purple_Legendary_ShardStone",
             "Mythic": "Purple_Mythic_ShardStone"
-        }
-      ]
-    },
-    {
+          }
+        },
+        {
           "Item": "Pink_Legendary_ShardStone",
           "Weight": 4.0,
           "Rarity": [
-            97.0,
-            2.0,
-            1.0,
             0.0,
             0.0,
             0.0,
@@ -729,9 +692,6 @@
           "Item": "DarkPurple_Mythic_ShardStone",
           "Weight": 4.0,
           "Rarity": [
-            97.0,
-            2.0,
-            1.0,
             0.0,
             0.0,
             0.0,
@@ -750,9 +710,6 @@
           "Item": "Orange_Mythic_ShardStone",
           "Weight": 4.0,
           "Rarity": [
-            97.0,
-            2.0,
-            1.0,
             0.0,
             0.0,
             0.0,
@@ -765,10 +722,9 @@
             "Epic": "Orange_Epic_ShardStone",
             "Legendary": "Orange_Legendary_ShardStone",
             "Mythic": "Orange_Mythic_ShardStone"
-        }
-      ]
-    },
-    {
+          }
+        },
+        {
           "Item": "DarkRed_Mythic_ShardStone",
           "Weight": 4.0,
           "Rarity": [
@@ -789,16 +745,6 @@
         {
           "Item": "ShardT5",
           "Weight": 3.0,
-          "Rarity": null
-        },
-        {
-          "Item": "Tier0Armor",
-          "Weight": 1.0,
-          "Rarity": null
-        },
-        {
-          "Item": "Tier0Shields",
-          "Weight": 1.0,
           "Rarity": null
         }
       ]
@@ -1128,7 +1074,7 @@
             "Epic": "Peach_Epic_ShardStone",
             "Legendary": "Peach_Legendary_ShardStone",
             "Mythic": "Peach_Mythic_ShardStone"
-        }
+          }
         }
       ]
     },
@@ -1167,9 +1113,9 @@
             "Mythic": "Stormcaller_Mythic_ShardStone"
           }
         }
-          ]
-        },
-        {
+      ]
+    },
+    {
       "Name": "ShardSlotChisel",
       "Loot": [
         {
@@ -1187,9 +1133,9 @@
             "Mythic": "ShardSlotChiselMythic"
           }
         }
-          ]
-        },
-        {
+      ]
+    },
+    {
       "Name": "ShardStone_None",
       "Loot": [
         {
@@ -1197,9 +1143,9 @@
           "Weight": 1.0,
           "Rarity": null
         }
-          ]
-        },
-        {
+      ]
+    },
+    {
       "Name": "ShardStone_Meadows",
       "Loot": [
         {
@@ -1207,9 +1153,9 @@
           "Weight": 1.0,
           "Rarity": null
         }
-          ]
-        },
-        {
+      ]
+    },
+    {
       "Name": "ShardStone_BlackForest",
       "Loot": [
         {
@@ -1232,9 +1178,9 @@
           "Weight": 1.0,
           "Rarity": null
         }
-          ]
-        },
-        {
+      ]
+    },
+    {
       "Name": "ShardStone_Swamp",
       "Loot": [
         {
@@ -1252,9 +1198,9 @@
           "Weight": 1.0,
           "Rarity": null
         }
-          ]
-        },
-        {
+      ]
+    },
+    {
       "Name": "ShardStone_Plains",
       "Loot": [
         {
@@ -1273,8 +1219,8 @@
           "Rarity": null
         }
       ]
-        },
-        {
+    },
+    {
       "Name": "ShardStone_AshLands",
       "Loot": [
         {
@@ -1283,8 +1229,8 @@
           "Rarity": null
         }
       ]
-        },
-        {
+    },
+    {
       "Name": "ShardStone_DeepNorth",
       "Loot": [
         {
@@ -1340,10 +1286,8 @@
             0.0,
             0.0
           ]
-        }
-      ]
-    },
-    {
+        },
+        {
           "Item": "SwordWood",
           "Weight": 1.0,
           "Rarity": [
@@ -1432,8 +1376,8 @@
           ]
         }
       ]
-        },
-        {
+    },
+    {
       "Name": "Tier0Tools",
       "Loot": [
         {
@@ -1459,8 +1403,8 @@
           ]
         }
       ]
-        },
-        {
+    },
+    {
       "Name": "Tier0Armor",
       "Loot": [
         {
@@ -1486,8 +1430,8 @@
           ]
         }
       ]
-        },
-        {
+    },
+    {
       "Name": "Tier0Shields",
       "Loot": [
         {
@@ -1513,8 +1457,8 @@
           ]
         }
       ]
-        },
-        {
+    },
+    {
       "Name": "Tier0Everything",
       "Loot": [
         {
@@ -1537,9 +1481,9 @@
           "Weight": 1.0,
           "Rarity": null
         }
-          ]
-        },
-        {
+      ]
+    },
+    {
       "Name": "Tier1Weapons",
       "Loot": [
         {
@@ -1631,8 +1575,8 @@
           ]
         }
       ]
-        },
-        {
+    },
+    {
       "Name": "Tier1Armor",
       "Loot": [
         {
@@ -1680,8 +1624,8 @@
           ]
         }
       ]
-        },
-        {
+    },
+    {
       "Name": "Tier1Tools",
       "Loot": [
         {
@@ -1729,8 +1673,8 @@
           ]
         }
       ]
-        },
-        {
+    },
+    {
       "Name": "Tier1Shields",
       "Loot": [
         {
@@ -1767,8 +1711,8 @@
           ]
         }
       ]
-        },
-        {
+    },
+    {
       "Name": "Tier1Everything",
       "Loot": [
         {
@@ -1841,8 +1785,8 @@
           ]
         }
       ]
-        },
-        {
+    },
+    {
       "Name": "Tier2Weapons",
       "Loot": [
         {
@@ -1977,9 +1921,9 @@
             0.0
           ]
         }
-          ]
-        },
-        {
+      ]
+    },
+    {
       "Name": "Tier2Armor",
       "Loot": [
         {
@@ -2120,17 +2064,6 @@
           ]
         },
         {
-          "Item": "VAElderRoundShield",
-          "Weight": 1.0,
-          "Rarity": [
-            80.0,
-            14.0,
-            4.0,
-            2.0,
-            0.0
-          ]
-        },
-        {
           "Item": "ShieldBoneTower",
           "Weight": 1.0,
           "Rarity": [
@@ -2159,39 +2092,6 @@
         },
         {
           "Item": "Cultivator",
-          "Weight": 1.0,
-          "Rarity": [
-            80.0,
-            14.0,
-            4.0,
-            2.0,
-            0.0
-          ]
-        },
-        {
-          "Item": "PickaxeDualMinerBronzeDO",
-          "Weight": 1.0,
-          "Rarity": [
-            80.0,
-            14.0,
-            4.0,
-            2.0,
-            0.0
-          ]
-        },
-        {
-          "Item": "VABlood_Bones_pickaxe",
-          "Weight": 1.0,
-          "Rarity": [
-            80.0,
-            14.0,
-            4.0,
-            2.0,
-            0.0
-          ]
-        },
-        {
-          "Item": "BFP_FineHammer",
           "Weight": 1.0,
           "Rarity": [
             80.0,
@@ -2379,237 +2279,6 @@
           ]
         },
         {
-          "Item": "SwordDualCaptainCutlassDO",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "SwordCaptainCutlassDO",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "SwordPlagueCrowDO",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "VAiron_greatsword",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "VABonemassSword",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "VABonemassGreatsword",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "VASwordChitin",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "AxePlagueCleaverDO",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "AxeSailorDO",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "VABone_axe",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "VAIron_dualaxes",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "VABone_dualaxes",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "DaggerCaptainDirkDO",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "DaggerPlagueScalpelDO",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "DaggerPlagueSyringeDO",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "ThrowingKnifeCoreIronDO",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "ThrowingWhirlstarCoreIronDO",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "VAdagger_iron",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "VAdagger_chitin_2h",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "VABonemassDagger",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "VAdagger_iron_2h",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
           "Item": "KnifeChitin",
           "Weight": 1.0,
           "Rarity": [
@@ -2621,172 +2290,7 @@
           ]
         },
         {
-          "Item": "VAFist_Iron",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "ToolSignalBoardingDO",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "StaffDeathcallerBlasterDO",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "VAStaff_Druid_Spirit",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "VAStaff_Druid_Fire",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "VAStaff_Druid_Poison",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "VAStaff_Druid_Ice",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "VABonemassWarhammer",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "VAAtgeirChitin",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
           "Item": "SpearChitin",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "CrossbowEvoCoreSwampDO",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "BowEvoCoreSwampDO",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "SlingshotIronDO",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "SlingshotCompositeMistlandsDO",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "CrossbowEvoRenegadeSwampDO",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "VACrossbowIron",
           "Weight": 1.0,
           "Rarity": [
             38.0,
@@ -2866,94 +2370,6 @@
             3.0,
             1.0
           ]
-        },
-        {
-          "Item": "ArmorGraveMercenaryChestDO",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "ArmorDeathcallerChestDO",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "ArmorGraveMercenaryLegsDO",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "ArmorDeathcallerLegsDO",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "ArmorGraveMercenaryHelmetDO",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "ArmorDeathcallerHelmetDO",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "ArmorGraveMercenaryCapeDO",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "ArmorDeathcallerCapeDO",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
         }
       ]
     },
@@ -2973,17 +2389,6 @@
         },
         {
           "Item": "ShieldIronTower",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "VAserpent_buckler",
           "Weight": 1.0,
           "Rarity": [
             38.0,
@@ -3022,17 +2427,6 @@
       "Loot": [
         {
           "Item": "PickaxeIron",
-          "Weight": 1.0,
-          "Rarity": [
-            38.0,
-            50.0,
-            8.0,
-            3.0,
-            1.0
-          ]
-        },
-        {
-          "Item": "PickaxeDualMinerIronDO",
           "Weight": 1.0,
           "Rarity": [
             38.0,
@@ -3171,116 +2565,6 @@
           ]
         },
         {
-          "Item": "SwordGunjangSamingeomDO",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "BastardGunjangDO",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "SwordGunjangHwandoDO",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "VASwordModer",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "VAsilver_greatsword",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "VAModer_greatsword",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "VAcrystal_axe",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "VAModer_Axe",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "VAModer_dualaxes",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "VACrystal_dualaxes",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
           "Item": "BattleaxeCrystal",
           "Weight": 1.0,
           "Rarity": [
@@ -3292,249 +2576,7 @@
           ]
         },
         {
-          "Item": "ThrowingKnifeCoreSilverDO",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "ThrowingWhirlstarCoreSilverDO",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "DaggerSnowTalonDO",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "DaggerDualSnowTalonDO",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "VAdagger_silver_2h",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "VAdagger_moder",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "VAdagger_moder_2h",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "StaffFrostcallerShotgunDO",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "VASilverSledge",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "AtgeirGunjangDO",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "VASilverAtgeir",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
           "Item": "Scythe",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "VASpearModer",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "CrossbowGunjangDO",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "BowGunjangDO",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "BowEvoCoreMountainDO",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "CrossbowEvoRenegadeMountainDO",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "BowFrostpeakHarrierDO",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "CrossbowEvoCoreMountainDO",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "SlingshotSilverDO",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "VACrossbowSilver",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "VACrossbowModer",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "VABlood_bone_bow",
           "Weight": 1.0,
           "Rarity": [
             5.0,
@@ -3625,193 +2667,6 @@
             17.0,
             3.0
           ]
-        },
-        {
-          "Item": "ArmorGunjangChestDO",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "ArmorFrostpeakHarrierChestDO",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "ArmorSnowTalonChestDO",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "ArmorFrostcallerChestDO",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "ArmorGunjangLegsDO",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "ArmorSnowTalonLegsDO",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "ArmorFrostpeakHarrierLegsDO",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "ArmorFrostcallerLegsDO",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "ArmorGunjangHelmetDO",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "ArmorSnowTalonHelmetDO",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "ArmorFrostpeakHarrierHelmetDO",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "ArmorFrostcallerHelmetDO",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "ArmorGunjangCapeDO",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "ArmorSnowTalonCapeDO",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "ArmorFrostpeakHarrierCapeDO",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "ArmorFrostcallerCapeDO",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "ArmorStonecallerCapeDO",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
         }
       ]
     },
@@ -3831,39 +2686,6 @@
         },
         {
           "Item": "ShieldSerpentscale",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "VAModer_RoundShield",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "VAModer_shield",
-          "Weight": 1.0,
-          "Rarity": [
-            5.0,
-            35.0,
-            50.0,
-            17.0,
-            3.0
-          ]
-        },
-        {
-          "Item": "VAsilver_tower",
           "Weight": 1.0,
           "Rarity": [
             5.0,
@@ -3997,436 +2819,7 @@
           ]
         },
         {
-          "Item": "BastardAnubisDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "SwordHorusDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "SwordBashradZanfarDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "SwordDualBashradDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "SwordCrusaderDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "BastardCrusaderDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "VABlackmetal_greatsword",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "AxeCrusaderDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "AxeBashradTabarzinDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "BattleAxeAnubisDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "BattleAxeCrusaderDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "VAblackmetal_battleaxe",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "VABlackmetal_dualaxes",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "VAblackmetal_2h_axe",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
           "Item": "BattleaxeBlackmetal",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "DaggerDualAnubisDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "DaggerHorusDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "DaggerAnubisDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "DaggerDualBashradDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "DaggerCrusaderDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "DaggerBashradDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "ThrowingWhirlstarCoreBlackmetalDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "ThrowingKnifeCoreBlackmetalDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "VAknife_blackmetal",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "FistClawAnubisDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "StaffFirecallerBlasterDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "StaffFirecallerRingDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "MaceHorusDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "MaceCrusaderBecDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "MaceCrusaderMorgensternDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "VAblackmetal_sledge",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "AtgeirCrusaderHalberdDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "VASpearBlackmetal",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "CrossbowEvoRenegadePlainsDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "BowGoldenStriderDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "SlingshotBlackmetalDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "CrossbowEvoCorePlainsDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "BowEvoCorePlainsDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "VABlackmetal_bow",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "VACrossbowBlackmetal",
           "Weight": 1.0,
           "Rarity": [
             0.0,
@@ -4528,259 +2921,6 @@
             20.0,
             5.0
           ]
-        },
-        {
-          "Item": "ArmorBashradChestDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "ArmorCrusaderChestDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "ArmorDreadRenegadeChestDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "ArmorGoldenStriderChestDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "ArmorStonecallerChestDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "ArmorFirecallerChestDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "ArmorCrusaderLegsDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "ArmorBashradLegsDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "ArmorGoldenStriderLegsDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "ArmorDreadRenegadeLegsDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "ArmorStonecallerLegsDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "ArmorFirecallerLegsDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "ArmorBashradHelmetDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "ArmorCrusaderHelmetDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "ArmorDreadRenegadeHelmetDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "ArmorGoldenStriderHelmetDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "ArmorFirecallerHelmetDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "ArmorStonecallerHelmetDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "ArmorCrusaderCapeDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "ArmorBashradCapeDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "ArmorGoldenStriderCapeDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "ArmorDreadRenegadeCapeDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "ArmorFirecallerCapeDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
         }
       ]
     },
@@ -4800,50 +2940,6 @@
         },
         {
           "Item": "ShieldBlackmetalTower",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "ShieldDaggerHorusDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "ShieldDaggerBashradDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "ShieldBashradDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            15.0,
-            60.0,
-            20.0,
-            5.0
-          ]
-        },
-        {
-          "Item": "ShieldTowerCrusaderDO",
           "Weight": 1.0,
           "Rarity": [
             0.0,
@@ -5054,370 +3150,7 @@
           ]
         },
         {
-          "Item": "SwordDaoweiJianDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "BastardDaoweiDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "VAQueen_greatsword",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "VASwordQueen",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "VAYagluth_greatsword",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "VAJotunn_single_axe",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "BattleAxeDaoweiDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "VAJotunn_2h_axe",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "VAJotunn_dualaxes",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
           "Item": "BattleaxeSkullSplittur",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "DaggerNocturneBladeDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "DaggerDualNocturneBladeDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "VAdagger_blackmetal_mistlands",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "VAdagger_queen",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "VAFist_Yagluth",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "StaffLightcallerHealDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "StaffLightcallerSphereDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "StaffWindcallerBuffDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "VAStaff_Poison",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "VAStaff_Spirit",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "MaceDaoweiDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "VAmistland_mace",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "MaceDualDaoweiDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "AtgeirHorusDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "AtgeirDaoweiHalberdDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "AtgeirDaoweiGuandaoDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "VAYagluthAtgeir",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "CrossbowEvoRenegadeMistlandsDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "CrossbowEvoCoreMistlandsDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "BowEvoCoreMistlandsDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "BowSapphireFalconDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "BowNocturneArrowDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "VAHeavy_Blood_Bone_Bow",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "VAQueen_bow",
           "Weight": 1.0,
           "Rarity": [
             0.0,
@@ -5530,446 +3263,6 @@
             30.0,
             10.0
           ]
-        },
-        {
-          "Item": "ArmorHorusChestDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "ArmorAnubisChestDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "ArmorCaptainChestDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "ArmorDaoweiChestDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "ArmorNocturneBladeChestDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "ArmorSapphireFalconChestDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "ArmorNocturneArrowChestDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "ArmorBloodcallerChestDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "ArmorWindcallerChestDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "ArmorLightcallerChestDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "ArmorHorusLegsDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "ArmorAnubisLegsDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "ArmorDaoweiLegsDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "ArmorCaptainLegsDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "ArmorSapphireFalconLegsDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "ArmorNocturneBladeLegsDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "ArmorNocturneArrowLegsDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "ArmorLightcallerLegsDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "ArmorBloodcallerLegsDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "ArmorWindcallerLegsDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "ArmorAnubisHelmetDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "ArmorHorusHelmetDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "ArmorCaptainHelmetDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "ArmorDaoweiHelmetDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "ArmorSapphireFalconHelmetDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "ArmorNocturneBladeHelmetDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "ArmorNocturneArrowHelmetDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "ArmorLightcallerHelmetDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "ArmorWindcallerHelmetDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "ArmorBloodcallerHelmetDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "ArmorAnubisCapeDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "ArmorHorusCapeDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "ArmorDaoweiCapeDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "ArmorCaptainCapeDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "ArmorNocturneBladeCapeDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "ArmorNocturneArrowCapeDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "ArmorSapphireFalconCapeDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "ArmorWindcallerCapeDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "ArmorLightcallerCapeDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "ArmorStormcallerCapeDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
         }
       ]
     },
@@ -5997,28 +3290,6 @@
             30.0,
             10.0
           ]
-        },
-        {
-          "Item": "ShieldDaoweiDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "VAdverger_tower",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
         }
       ]
     },
@@ -6027,17 +3298,6 @@
       "Loot": [
         {
           "Item": "PickaxeBlackMetal",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            10.0,
-            50.0,
-            30.0,
-            10.0
-          ]
-        },
-        {
-          "Item": "PickaxeDualMinerBlackmetalDO",
           "Weight": 1.0,
           "Rarity": [
             0.0,
@@ -6263,83 +3523,6 @@
           ]
         },
         {
-          "Item": "BastardThanatosDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "BastardShogunNagamakiDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "BastardShogunKatanaDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "SwordDualShogunDaishoDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "SwordShogunWakizashiDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "VAGreatswordFader",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "VASwordFader",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
           "Item": "SwordNiedhoggNature",
           "Weight": 1.0,
           "Rarity": [
@@ -6406,94 +3589,6 @@
           ]
         },
         {
-          "Item": "VAFlametal_Axe_Lightning",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "VAFlametal_Axe_Blood",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "VAFlametal_Axe_Primal",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "VAFlametal_Axe",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "VAFlametalAxe_blood_2h",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "VAFlametalAxe_primal_2h",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "VAFlametalAxe_lightning_2h",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "VAFlametalAxe_2h",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
           "Item": "AxeBerzerkrNature",
           "Weight": 1.0,
           "Rarity": [
@@ -6517,182 +3612,6 @@
         },
         {
           "Item": "AxeBerzerkrLightning",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "DaggerShogunTantoDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "ThrowingKnifeCoreFlametalDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "ThrowingWhirlstarCoreFlametalDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "VAdagger_meteor_lightning",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "VAdagger_meteor_2h_nature",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "VAdagger_meteor_2h_lightning",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "VAdagger_meteor_2h_blood",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "VAdagger_meteor_2h",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "VAdagger_meteor_blood",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "VAdagger_meteor_nature",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "VAdagger_meteor",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "StaffBloodcallerShotgunDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "StaffStormcallerSphereDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "StaffStormcallerShockerDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "StaffBloodcallerHealDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "MaceThanatosDO",
           "Weight": 1.0,
           "Rarity": [
             0.0,
@@ -6736,149 +3655,6 @@
           ]
         },
         {
-          "Item": "BattleMaceShogunKanaboDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "VAflametal_sledge_blood",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "VAflametal_sledge_lightning",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "VAflametal_sledge",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "VAflametal_sledge_nature",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "ScytheThanatosDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "AtgeirShogunNaginataDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "AtgeirShogunYariDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "VAMeteorAtgeir_blood",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "VAMeteorAtgeir_lightning",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "VAMeteorAtgeir",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "VAMeteorAtgeir_nature",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "VASpearFader",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
           "Item": "SpearSplitner_Lightning",
           "Weight": 1.0,
           "Rarity": [
@@ -6902,149 +3678,6 @@
         },
         {
           "Item": "SpearSplitner_Blood",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "BowShogunYumiDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "CrossbowEvoRenegadeAshlandsFrostDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "CrossbowDemonHunterDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "CrossbowEvoCoreAshlandsLightningDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "BowEvoCoreAshlandsNatureDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "CrossbowEvoCoreAshlandsNatureDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "BowEvoCoreAshlandsLightningDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "BowEvoCoreAshlandsBloodDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "CrossbowEvoRenegadeAshlandsSpiritDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "SlingshotCompositeAshlandsDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "CrossbowEvoCoreAshlandsBloodDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "BowAshenExileDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "VASoulStealer",
           "Weight": 1.0,
           "Rarity": [
             0.0,
@@ -7256,226 +3889,6 @@
             45.0,
             15.0
           ]
-        },
-        {
-          "Item": "ArmorThanatosChestDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "ArmorShogunChestDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "ArmorAshenExileChestDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "ArmorDemonHunterChestDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "ArmorStormcallerChestDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "ArmorThanatosLegsDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "ArmorShogunLegsDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "ArmorDemonHunterLegsDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "ArmorAshenExileLegsDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "ArmorStormcallerLegsDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "ArmorThanatosHelmetDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "ArmorShogunHelmetDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "ArmorDemonHunterHelmetDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "ArmorAshenExileHelmetDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "ArmorStormcallerHelmetDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "ArmorThanatosCapeDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "ArmorShogunCapeDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "ArmorDemonHunterCapeDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "ArmorAshenExileCapeDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "ArmorBloodcallerCapeDO",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
         }
       ]
     },
@@ -7495,17 +3908,6 @@
         },
         {
           "Item": "ShieldFlametalTower",
-          "Weight": 1.0,
-          "Rarity": [
-            0.0,
-            5.0,
-            35.0,
-            45.0,
-            15.0
-          ]
-        },
-        {
-          "Item": "ShieldThanatosDO",
           "Weight": 1.0,
           "Rarity": [
             0.0,
@@ -10859,7 +7261,7 @@
             [
               3.0,
               2.0
-              ]
+            ]
           ],
           "Loot": [
             {
@@ -10924,8 +7326,8 @@
               "Item": "ShardUnique",
               "Weight": 0.2,
               "Rarity": null
-        }
-      ]
+            }
+          ]
         },
         {
           "Level": 5,
@@ -10957,8 +7359,8 @@
               "Item": "ShardT6",
               "Weight": 1.0,
               "Rarity": null
-    },
-    {
+            },
+            {
               "Item": "ShardT7",
               "Weight": 1.0,
               "Rarity": null
@@ -11649,7 +8051,7 @@
                 "Epic": "Eikthyr_Epic_ShardStone",
                 "Legendary": "Eikthyr_Legendary_ShardStone",
                 "Mythic": "Eikthyr_Mythic_ShardStone"
-            }
+              }
             }
           ]
         }
@@ -12812,8 +9214,8 @@
               ]
             }
           ]
-            }
-          ]
+        }
+      ]
     },
     {
       "Object": "SeekerQueen",
