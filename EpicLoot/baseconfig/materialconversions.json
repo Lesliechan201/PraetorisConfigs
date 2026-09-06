@@ -1,12 +1,15 @@
 {
-  "MaterialConversions" : [
+  "MaterialConversions": [
     {
       "Name": "Recipe_ShardRareUpgrade",
       "Product": "ShardRare",
       "Amount": 1,
       "Type": "Upgrade",
       "Resources": [
-        { "Item": "ShardMagic", "Amount": 5 }
+        {
+          "Item": "ShardMagic",
+          "Amount": 5
+        }
       ]
     },
     {
@@ -15,8 +18,14 @@
       "Amount": 1,
       "Type": "Upgrade",
       "Resources": [
-        { "Item": "ShardRare", "Amount": 5 },
-        { "Item": "Coins",     "Amount": 5 }
+        {
+          "Item": "ShardRare",
+          "Amount": 5
+        },
+        {
+          "Item": "Coins",
+          "Amount": 5
+        }
       ]
     },
     {
@@ -25,8 +34,14 @@
       "Amount": 1,
       "Type": "Upgrade",
       "Resources": [
-        { "Item": "ShardEpic", "Amount": 5 },
-        { "Item": "Coins",     "Amount": 10 }
+        {
+          "Item": "ShardEpic",
+          "Amount": 5
+        },
+        {
+          "Item": "Coins",
+          "Amount": 10
+        }
       ]
     },
     {
@@ -35,8 +50,14 @@
       "Amount": 1,
       "Type": "Upgrade",
       "Resources": [
-        { "Item": "ShardLegendary", "Amount": 5 },
-        { "Item": "Coins",          "Amount": 15 }
+        {
+          "Item": "ShardLegendary",
+          "Amount": 5
+        },
+        {
+          "Item": "Coins",
+          "Amount": 15
+        }
       ]
     },
     {
@@ -45,7 +66,10 @@
       "Amount": 1,
       "Type": "Upgrade",
       "Resources": [
-        { "Item": "DustMagic", "Amount": 5  }
+        {
+          "Item": "DustMagic",
+          "Amount": 5
+        }
       ]
     },
     {
@@ -54,8 +78,14 @@
       "Amount": 1,
       "Type": "Upgrade",
       "Resources": [
-        { "Item": "DustRare", "Amount": 5  },
-        { "Item": "Coins",    "Amount": 5 }
+        {
+          "Item": "DustRare",
+          "Amount": 5
+        },
+        {
+          "Item": "Coins",
+          "Amount": 5
+        }
       ]
     },
     {
@@ -64,8 +94,14 @@
       "Amount": 1,
       "Type": "Upgrade",
       "Resources": [
-        { "Item": "DustEpic", "Amount": 5  },
-        { "Item": "Coins",    "Amount": 10 }
+        {
+          "Item": "DustEpic",
+          "Amount": 5
+        },
+        {
+          "Item": "Coins",
+          "Amount": 10
+        }
       ]
     },
     {
@@ -74,8 +110,14 @@
       "Amount": 1,
       "Type": "Upgrade",
       "Resources": [
-        { "Item": "DustLegendary",  "Amount": 5  },
-        { "Item": "Coins",          "Amount": 15 }
+        {
+          "Item": "DustLegendary",
+          "Amount": 5
+        },
+        {
+          "Item": "Coins",
+          "Amount": 15
+        }
       ]
     },
     {
@@ -84,7 +126,14 @@
       "Amount": 1,
       "Type": "Upgrade",
       "Resources": [
-        { "Item": "ReagentMagic", "Amount": 5 }
+        {
+          "Item": "ReagentMagic",
+          "Amount": 5
+        },
+        {
+          "Item": "Coins",
+          "Amount": 25
+        }
       ]
     },
     {
@@ -93,8 +142,14 @@
       "Amount": 1,
       "Type": "Upgrade",
       "Resources": [
-        { "Item": "ReagentRare", "Amount": 5  },
-        { "Item": "Coins",       "Amount": 5 }
+        {
+          "Item": "ReagentRare",
+          "Amount": 5
+        },
+        {
+          "Item": "Coins",
+          "Amount": 50
+        }
       ]
     },
     {
@@ -103,8 +158,14 @@
       "Amount": 1,
       "Type": "Upgrade",
       "Resources": [
-        { "Item": "ReagentEpic", "Amount": 5  },
-        { "Item": "Coins",       "Amount": 10 }
+        {
+          "Item": "ReagentEpic",
+          "Amount": 5
+        },
+        {
+          "Item": "Coins",
+          "Amount": 100
+        }
       ]
     },
     {
@@ -113,8 +174,14 @@
       "Amount": 1,
       "Type": "Upgrade",
       "Resources": [
-        { "Item": "ReagentLegendary", "Amount": 5  },
-        { "Item": "Coins",            "Amount": 15 }
+        {
+          "Item": "ReagentLegendary",
+          "Amount": 5
+        },
+        {
+          "Item": "Coins",
+          "Amount": 150
+        }
       ]
     },
     {
@@ -123,7 +190,14 @@
       "Amount": 1,
       "Type": "Upgrade",
       "Resources": [
-        { "Item": "EssenceMagic", "Amount": 5 }
+        {
+          "Item": "EssenceMagic",
+          "Amount": 5
+        },
+        {
+          "Item": "Coins",
+          "Amount": 25
+        }
       ]
     },
     {
@@ -132,8 +206,14 @@
       "Amount": 1,
       "Type": "Upgrade",
       "Resources": [
-        { "Item": "EssenceRare", "Amount": 5  },
-        { "Item": "Coins",       "Amount": 5 }
+        {
+          "Item": "EssenceRare",
+          "Amount": 5
+        },
+        {
+          "Item": "Coins",
+          "Amount": 50
+        }
       ]
     },
     {
@@ -142,8 +222,14 @@
       "Amount": 1,
       "Type": "Upgrade",
       "Resources": [
-        { "Item": "EssenceEpic", "Amount": 5  },
-        { "Item": "Coins",       "Amount": 10 }
+        {
+          "Item": "EssenceEpic",
+          "Amount": 5
+        },
+        {
+          "Item": "Coins",
+          "Amount": 100
+        }
       ]
     },
     {
@@ -152,8 +238,14 @@
       "Amount": 1,
       "Type": "Upgrade",
       "Resources": [
-        { "Item": "EssenceLegendary", "Amount": 5  },
-        { "Item": "Coins",            "Amount": 15 }
+        {
+          "Item": "EssenceLegendary",
+          "Amount": 5
+        },
+        {
+          "Item": "Coins",
+          "Amount": 150
+        }
       ]
     },
     {
@@ -162,7 +254,14 @@
       "Amount": 1,
       "Type": "Upgrade",
       "Resources": [
-        { "Item": "RunestoneMagic", "Amount": 5 }
+        {
+          "Item": "RunestoneMagic",
+          "Amount": 5
+        },
+        {
+          "Item": "Coins",
+          "Amount": 25
+        }
       ]
     },
     {
@@ -171,8 +270,14 @@
       "Amount": 1,
       "Type": "Upgrade",
       "Resources": [
-        { "Item": "RunestoneRare", "Amount": 5  },
-        { "Item": "Coins",         "Amount": 5 }
+        {
+          "Item": "RunestoneRare",
+          "Amount": 5
+        },
+        {
+          "Item": "Coins",
+          "Amount": 50
+        }
       ]
     },
     {
@@ -181,8 +286,14 @@
       "Amount": 1,
       "Type": "Upgrade",
       "Resources": [
-        { "Item": "RunestoneEpic", "Amount": 5  },
-        { "Item": "Coins",         "Amount": 10 }
+        {
+          "Item": "RunestoneEpic",
+          "Amount": 5
+        },
+        {
+          "Item": "Coins",
+          "Amount": 100
+        }
       ]
     },
     {
@@ -191,28 +302,46 @@
       "Amount": 1,
       "Type": "Upgrade",
       "Resources": [
-        { "Item": "RunestoneLegendary", "Amount": 5  },
-        { "Item": "Coins",              "Amount": 15 }
+        {
+          "Item": "RunestoneLegendary",
+          "Amount": 5
+        },
+        {
+          "Item": "Coins",
+          "Amount": 150
+        }
       ]
     },
-        {
+    {
       "Name": "Recipe_MagicDustAndEssenceToShard_Conversion",
       "Product": "ShardMagic",
       "Amount": 1,
       "Type": "Convert",
       "Resources": [
-        { "Item": "EssenceMagic", "Amount": 2 },
-        { "Item": "DustMagic",    "Amount": 2 }
-      ]
+        {
+          "Item": "EssenceMagic",
+          "Amount": 10
         },
         {
+          "Item": "DustMagic",
+          "Amount": 10
+        }
+      ]
+    },
+    {
       "Name": "Recipe_RareDustAndEssenceToShard_Conversion",
       "Product": "ShardRare",
       "Amount": 1,
       "Type": "Convert",
       "Resources": [
-        { "Item": "EssenceRare", "Amount": 2 },
-        { "Item": "DustRare",    "Amount": 2 }
+        {
+          "Item": "EssenceRare",
+          "Amount": 10
+        },
+        {
+          "Item": "DustRare",
+          "Amount": 10
+        }
       ]
     },
     {
@@ -221,8 +350,14 @@
       "Amount": 1,
       "Type": "Convert",
       "Resources": [
-        { "Item": "EssenceEpic", "Amount": 2 },
-        { "Item": "DustEpic",    "Amount": 2 }
+        {
+          "Item": "EssenceEpic",
+          "Amount": 10
+        },
+        {
+          "Item": "DustEpic",
+          "Amount": 10
+        }
       ]
     },
     {
@@ -231,8 +366,14 @@
       "Amount": 1,
       "Type": "Convert",
       "Resources": [
-        { "Item": "EssenceLegendary", "Amount": 2 },
-        { "Item": "DustLegendary",    "Amount": 2 }
+        {
+          "Item": "EssenceLegendary",
+          "Amount": 10
+        },
+        {
+          "Item": "DustLegendary",
+          "Amount": 10
+        }
       ]
     },
     {
@@ -241,8 +382,14 @@
       "Amount": 1,
       "Type": "Convert",
       "Resources": [
-        { "Item": "EssenceMythic", "Amount": 2 },
-        { "Item": "DustMythic",    "Amount": 2 }
+        {
+          "Item": "EssenceMythic",
+          "Amount": 10
+        },
+        {
+          "Item": "DustMythic",
+          "Amount": 10
+        }
       ]
     },
     {
@@ -251,7 +398,10 @@
       "Amount": 1,
       "Type": "Convert",
       "Resources": [
-        { "Item": "ShardMagic", "Amount": 2 }
+        {
+          "Item": "ShardMagic",
+          "Amount": 2
+        }
       ]
     },
     {
@@ -260,7 +410,10 @@
       "Amount": 1,
       "Type": "Convert",
       "Resources": [
-        { "Item": "ShardMagic", "Amount": 2 }
+        {
+          "Item": "ShardMagic",
+          "Amount": 2
+        }
       ]
     },
     {
@@ -269,7 +422,10 @@
       "Amount": 1,
       "Type": "Convert",
       "Resources": [
-        { "Item": "ShardMagic", "Amount": 2 }
+        {
+          "Item": "ShardMagic",
+          "Amount": 2
+        }
       ]
     },
     {
@@ -278,8 +434,14 @@
       "Amount": 1,
       "Type": "Convert",
       "Resources": [
-        { "Item": "ShardRare", "Amount": 2 },
-        { "Item": "Coins",     "Amount": 2 }
+        {
+          "Item": "ShardRare",
+          "Amount": 2
+        },
+        {
+          "Item": "Coins",
+          "Amount": 2
+        }
       ]
     },
     {
@@ -288,8 +450,14 @@
       "Amount": 1,
       "Type": "Convert",
       "Resources": [
-        { "Item": "ShardRare", "Amount": 2 },
-        { "Item": "Coins",     "Amount": 2 }
+        {
+          "Item": "ShardRare",
+          "Amount": 2
+        },
+        {
+          "Item": "Coins",
+          "Amount": 2
+        }
       ]
     },
     {
@@ -298,8 +466,14 @@
       "Amount": 1,
       "Type": "Convert",
       "Resources": [
-        { "Item": "ShardRare", "Amount": 2 },
-        { "Item": "Coins",     "Amount": 2 }
+        {
+          "Item": "ShardRare",
+          "Amount": 2
+        },
+        {
+          "Item": "Coins",
+          "Amount": 2
+        }
       ]
     },
     {
@@ -308,8 +482,14 @@
       "Amount": 1,
       "Type": "Convert",
       "Resources": [
-        { "Item": "ShardEpic", "Amount": 2 },
-        { "Item": "Coins",     "Amount": 3 }
+        {
+          "Item": "ShardEpic",
+          "Amount": 2
+        },
+        {
+          "Item": "Coins",
+          "Amount": 3
+        }
       ]
     },
     {
@@ -318,8 +498,14 @@
       "Amount": 1,
       "Type": "Convert",
       "Resources": [
-        { "Item": "ShardEpic", "Amount": 2 },
-        { "Item": "Coins",     "Amount": 3 }
+        {
+          "Item": "ShardEpic",
+          "Amount": 2
+        },
+        {
+          "Item": "Coins",
+          "Amount": 3
+        }
       ]
     },
     {
@@ -328,8 +514,14 @@
       "Amount": 1,
       "Type": "Convert",
       "Resources": [
-        { "Item": "ShardEpic", "Amount": 2 },
-        { "Item": "Coins",     "Amount": 3 }
+        {
+          "Item": "ShardEpic",
+          "Amount": 2
+        },
+        {
+          "Item": "Coins",
+          "Amount": 3
+        }
       ]
     },
     {
@@ -338,8 +530,14 @@
       "Amount": 1,
       "Type": "Convert",
       "Resources": [
-        { "Item": "ShardLegendary", "Amount": 2 },
-        { "Item": "Coins",          "Amount": 4 }
+        {
+          "Item": "ShardLegendary",
+          "Amount": 2
+        },
+        {
+          "Item": "Coins",
+          "Amount": 4
+        }
       ]
     },
     {
@@ -348,8 +546,14 @@
       "Amount": 1,
       "Type": "Convert",
       "Resources": [
-        { "Item": "ShardLegendary", "Amount": 2 },
-        { "Item": "Coins",          "Amount": 4 }
+        {
+          "Item": "ShardLegendary",
+          "Amount": 2
+        },
+        {
+          "Item": "Coins",
+          "Amount": 4
+        }
       ]
     },
     {
@@ -358,17 +562,30 @@
       "Amount": 1,
       "Type": "Convert",
       "Resources": [
-        { "Item": "ShardLegendary", "Amount": 2 },
-        { "Item": "Coins",          "Amount": 4 }
+        {
+          "Item": "ShardLegendary",
+          "Amount": 2
+        },
+        {
+          "Item": "Coins",
+          "Amount": 4
+        }
       ]
-    },{
+    },
+    {
       "Name": "Recipe_MythicShardToDust_Conversion",
       "Product": "DustMythic",
       "Amount": 1,
       "Type": "Convert",
       "Resources": [
-        { "Item": "ShardMythic", "Amount": 2 },
-        { "Item": "Coins",          "Amount": 4 }
+        {
+          "Item": "ShardMythic",
+          "Amount": 2
+        },
+        {
+          "Item": "Coins",
+          "Amount": 4
+        }
       ]
     },
     {
@@ -377,8 +594,14 @@
       "Amount": 1,
       "Type": "Convert",
       "Resources": [
-        { "Item": "ShardMythic", "Amount": 2 },
-        { "Item": "Coins",          "Amount": 4 }
+        {
+          "Item": "ShardMythic",
+          "Amount": 2
+        },
+        {
+          "Item": "Coins",
+          "Amount": 4
+        }
       ]
     },
     {
@@ -387,8 +610,14 @@
       "Amount": 1,
       "Type": "Convert",
       "Resources": [
-        { "Item": "ShardMythic", "Amount": 2 },
-        { "Item": "Coins",          "Amount": 4 }
+        {
+          "Item": "ShardMythic",
+          "Amount": 2
+        },
+        {
+          "Item": "Coins",
+          "Amount": 4
+        }
       ]
     },
     {
@@ -397,7 +626,10 @@
       "Amount": 1,
       "Type": "Junk",
       "Resources": [
-        { "Item": "BoneFragments", "Amount": 10 }
+        {
+          "Item": "BoneFragments",
+          "Amount": 10
+        }
       ]
     },
     {
@@ -406,7 +638,10 @@
       "Amount": 1,
       "Type": "Junk",
       "Resources": [
-        { "Item": "GreydwarfEye", "Amount": 10 }
+        {
+          "Item": "GreydwarfEye",
+          "Amount": 10
+        }
       ]
     },
     {
@@ -415,7 +650,22 @@
       "Amount": 1,
       "Type": "Junk",
       "Resources": [
-        { "Item": "HardAntler", "Amount": 3 }
+        {
+          "Item": "HardAntler",
+          "Amount": 3
+        }
+      ]
+    },
+    {
+      "Name": "Recipe_DandelionBruteTrophy",
+      "Product": "TrophyGreydwarfBrute",
+      "Amount": 1,
+      "Type": "Junk",
+      "Resources": [
+        {
+          "Item": "Dandelion",
+          "Amount": 25
+        }
       ]
     },
     {
@@ -424,7 +674,10 @@
       "Amount": 1,
       "Type": "Junk",
       "Resources": [
-        { "Item": "TrollHide", "Amount": 10 }
+        {
+          "Item": "TrollHide",
+          "Amount": 10
+        }
       ]
     },
     {
@@ -433,7 +686,22 @@
       "Amount": 1,
       "Type": "Junk",
       "Resources": [
-        { "Item": "SurtlingCore", "Amount": 2 }
+        {
+          "Item": "SurtlingCore",
+          "Amount": 2
+        }
+      ]
+    },
+    {
+      "Name": "Recipe_GuckAbominationTrophy",
+      "Product": "TrophyAbomination",
+      "Amount": 1,
+      "Type": "Junk",
+      "Resources": [
+        {
+          "Item": "Guck",
+          "Amount": 25
+        }
       ]
     },
     {
@@ -442,7 +710,10 @@
       "Amount": 1,
       "Type": "Junk",
       "Resources": [
-        { "Item": "Bloodbag", "Amount": 20 }
+        {
+          "Item": "Bloodbag",
+          "Amount": 20
+        }
       ]
     },
     {
@@ -451,7 +722,34 @@
       "Amount": 1,
       "Type": "Junk",
       "Resources": [
-        { "Item": "FreezeGland", "Amount": 3 }
+        {
+          "Item": "FreezeGland",
+          "Amount": 3
+        }
+      ]
+    },
+    {
+      "Name": "Recipe_WolfFangWolfTrophy",
+      "Product": "TrophyWolf",
+      "Amount": 1,
+      "Type": "Junk",
+      "Resources": [
+        {
+          "Item": "WolfFang",
+          "Amount": 10
+        }
+      ]
+    },
+    {
+      "Name": "Recipe_FenrisHairUlvTrophy",
+      "Product": "UlvTrophy",
+      "Amount": 1,
+      "Type": "Junk",
+      "Resources": [
+        {
+          "Item": "WolfHairBundle",
+          "Amount": 10
+        }
       ]
     },
     {
@@ -460,16 +758,10 @@
       "Amount": 1,
       "Type": "Junk",
       "Resources": [
-        { "Item": "SerpentScale", "Amount": 50 }
-      ]
-    },
-    {
-      "Name": "Recipe_CrystalSGolemTrophy",
-      "Product": "TrophySGolem",
-      "Amount": 1,
-      "Type": "Junk",
-      "Resources": [
-        { "Item": "Crystal", "Amount": 100 }
+        {
+          "Item": "SerpentScale",
+          "Amount": 50
+        }
       ]
     },
     {
@@ -478,7 +770,10 @@
       "Amount": 1,
       "Type": "Junk",
       "Resources": [
-        { "Item": "GoblinTotem", "Amount": 2 }
+        {
+          "Item": "GoblinTotem",
+          "Amount": 2
+        }
       ]
     },
     {
@@ -487,7 +782,58 @@
       "Amount": 1,
       "Type": "Junk",
       "Resources": [
-        { "Item": "MorgenHeart", "Amount": 15 }
+        {
+          "Item": "MorgenHeart",
+          "Amount": 15
+        }
+      ]
+    },
+    {
+      "Name": "Recipe_NeedleDeathsquitoTrophy",
+      "Product": "TrophyDeathsquito",
+      "Amount": 1,
+      "Type": "Junk",
+      "Resources": [
+        {
+          "Item": "Needle",
+          "Amount": 20
+        }
+      ]
+    },
+    {
+      "Name": "Recipe_BilebagGjallTrophy",
+      "Product": "TrophyGjall",
+      "Amount": 1,
+      "Type": "Junk",
+      "Resources": [
+        {
+          "Item": "Bilebag",
+          "Amount": 3
+        }
+      ]
+    },
+    {
+      "Name": "Recipe_MandiblesSeekerSoldierTrophy",
+      "Product": "TrophySeekerBrute",
+      "Amount": 1,
+      "Type": "Junk",
+      "Resources": [
+        {
+          "Item": "Mandible",
+          "Amount": 5
+        }
+      ]
+    },
+    {
+      "Name": "Recipe_CarapaceSeekerTrophy",
+      "Product": "TrophySeeker",
+      "Amount": 1,
+      "Type": "Junk",
+      "Resources": [
+        {
+          "Item": "Carapace",
+          "Amount": 50
+        }
       ]
     },
     {
@@ -496,7 +842,10 @@
       "Amount": 1,
       "Type": "Junk",
       "Resources": [
-        { "Item": "DragonTear", "Amount": 10 }
+        {
+          "Item": "DragonTear",
+          "Amount": 10
+        }
       ]
     },
     {
@@ -505,7 +854,10 @@
       "Amount": 1,
       "Type": "Junk",
       "Resources": [
-        { "Item": "YagluthDrop", "Amount": 3 }
+        {
+          "Item": "YagluthDrop",
+          "Amount": 3
+        }
       ]
     },
     {
@@ -514,7 +866,10 @@
       "Amount": 1,
       "Type": "Junk",
       "Resources": [
-        { "Item": "QueenDrop", "Amount": 5 }
+        {
+          "Item": "QueenDrop",
+          "Amount": 5
+        }
       ]
     },
     {
@@ -523,7 +878,10 @@
       "Amount": 1,
       "Type": "Junk",
       "Resources": [
-        { "Item": "FaderDrop", "Amount": 5 }
+        {
+          "Item": "FaderDrop",
+          "Amount": 5
+        }
       ]
     }
   ]
