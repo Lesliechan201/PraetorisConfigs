@@ -4503,12 +4503,12 @@
     "CostsByRarity": {
       "Magic": [
         {
-          "Item": "Coins",
-          "Amount": 10
+          "Item": "GoldBountyToken",
+          "Amount": 1
         },
         {
           "Item": "EssenceMagic",
-          "Amount": 10
+          "Amount": 3
         },
         {
           "Item": "ReagentMagic",
@@ -4521,12 +4521,12 @@
       ],
       "Rare": [
         {
-          "Item": "ForestToken",
+          "Item": "GoldBountyToken",
           "Amount": 1
         },
         {
           "Item": "EssenceRare",
-          "Amount": 10
+          "Amount": 3
         },
         {
           "Item": "ReagentRare",
@@ -4539,12 +4539,12 @@
       ],
       "Epic": [
         {
-          "Item": "IronBountyToken",
+          "Item": "GoldBountyToken",
           "Amount": 1
         },
         {
           "Item": "EssenceEpic",
-          "Amount": 10
+          "Amount": 3
         },
         {
           "Item": "ReagentEpic",
@@ -4562,7 +4562,7 @@
         },
         {
           "Item": "EssenceLegendary",
-          "Amount": 10
+          "Amount": 3
         },
         {
           "Item": "ReagentLegendary",
@@ -4576,11 +4576,11 @@
       "Mythic": [
         {
           "Item": "GoldBountyToken",
-          "Amount": 2
+          "Amount": 1
         },
         {
           "Item": "EssenceMythic",
-          "Amount": 10
+          "Amount": 3
         },
         {
           "Item": "ReagentMythic",
